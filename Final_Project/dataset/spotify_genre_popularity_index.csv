@@ -1,0 +1,7 @@
+﻿mapped_spotify_genre,genre_track_count,genre_popularity_mean,genre_popularity_median,popularity_score_0_100,popularity_rank,popularity_percentile,genre_popularity_segment,listener_type,listener_type_zh,indicator_rule
+pop,5507,47.74487016524424,52.0,100.0,1,1.0,mainstream,Mainstreamer,主流型用戶,Top 25% by genre_popularity_mean
+latin,5155,47.02657613967023,50.0,94.43672139546383,2,0.8333333333333334,mainstream,Mainstreamer,主流型用戶,Top 25% by genre_popularity_mean
+rap,5746,43.21545422902889,47.0,64.91909737261783,3,0.6666666666666666,middle,Balanced,中間型用戶,Middle 50% by genre_popularity_mean
+rock,4951,41.72833770955363,46.0,53.40119074846387,4,0.5,middle,Balanced,中間型用戶,Middle 50% by genre_popularity_mean
+r&b,5431,41.22353157797827,44.0,49.491403041420604,5,0.3333333333333333,niche,Discovery-oriented,小眾挖掘者,Bottom 25% by genre_popularity_mean
+edm,6043,34.83352639417508,36.0,0.0,6,0.16666666666666666,niche,Discovery-oriented,小眾挖掘者,Bottom 25% by genre_popularity_mean
