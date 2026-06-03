@@ -1,0 +1,2900 @@
+tagID	tagValue	canonical_genre
+1	metal	metal
+2	alternative metal	new metal
+3	goth rock	gothic
+4	black metal	black metal
+5	death metal	death metal
+6	industrial metal	proto metal
+7	gothic metal	gothic
+11	post black metal	metal
+15	downtempo	downtempo
+16	new wave	new wave
+17	synth pop	synth
+18	electronic	electronic
+21	trip-hop	tri hop
+22	acid jazz	jazz
+24	pop	pop
+37	groove	groove
+39	dance	dance
+42	synth-pop	synth
+49	female vocalist	girl singer
+51	clicks and cuts	clicks'n'cuts
+57	clicks'n'cuts	clicks'n'cuts
+60	melodramatic popular song minimal	melodramatic popular song
+62	trip hop	tri hop
+63	basses frequences	basses frequences
+68	glitch hop	glitch hop
+70	dubstep	dubstep
+71	hiphop	hiphop
+72	hard rock	hard rock
+73	rock	rock
+74	synthpop	synth
+75	psychedelic rock	psychedelic rock
+76	progressive metal	progressive metal
+77	ambient rock	ambient rock
+78	alternative rock	alternative rock
+80	glam rock	glam rock
+82	doom metal	doom metal
+83	jazz	jazz
+85	funk	funk
+89	symphonic metal	symphonic
+90	trance	trance
+91	thrash metal	thrash metal
+100	hip hop under	rap
+102	hip-hop	rap
+103	rap	rap
+107	kizomba	kizomba
+108	rock and roll	rock n roll
+109	pop rock	pop-rap
+110	kizomba zouk	zouk
+112	underground hip hp	underground hip hp
+113	hip hop angolano	hip hop angolano
+114	luso hip hop	hip hop sul
+115	french rap	french rap
+116	jam	jam
+118	semba	semba
+120	world music	worldmusic
+124	pop dance	dancepop
+126	zouk	zouk
+129	music idol	idol
+130	female vocalists	girl singer
+134	singer-songwriter	songwriter
+135	german artists	german artists
+138	hard rock - metal	hard rock
+139	j-rock	j-rock
+140	j-pop	j-pop
+142	electronic - trance - psytrance	electronic - trance - psytrance
+145	kpop	kpop
+160	noise rock	noise rock
+164	k-pop	kpop
+170	grunge	grunge
+174	belarussian pop	french pop
+177	nu metal	nu metal
+179	gothic	gothic
+180	post-hardcore	hardcore
+183	christian rock	rock gospel
+184	soundtrack	soundtrack
+185	acoustic	acoustic
+187	electronica	electronic
+189	industrial rock	industrial rock
+190	gothic rock	gothic
+191	instrumental	instrumental
+194	hardcore	hardcore
+197	gangsta rap	gangsta
+198	rapcore	rapcore
+199	electropop	electropop
+202	electro pop	electropop
+203	disco	disco
+205	urban pop	pop life
+231	ballad	ballad
+235	dancepop	dancepop
+239	spanish new wave	spanish new wave
+240	80s pop espanol	pop espanol
+241	spanish pop	latin pop
+242	power pop	power pop
+243	spanish rock	latin rock
+244	spanish pop-rock	latin rock
+246	pop espanol	pop espanol
+248	garage revival	garage rock
+249	garage rock	garage rock
+251	swing	swing
+253	rockabilly	rockabilly
+254	freakbeat	freakbeat
+255	rock espanol	rock espanol
+256	retro swing	swing
+257	swing revival	swing
+258	neo swing	neo swing
+261	punkabilly	punkabilly
+264	90s pop espanol	pop espanol
+266	psychedelic garage	psychedelic garage
+267	psychedelic garage revival	psychedelic garage
+270	spanish rockabilly	latin rock
+276	instro rock	instro rock
+277	mod revival	mod revival
+278	rock urbano	rock urbano
+289	hot guitar	hot guitar
+292	folk	folk
+294	greek pop	greek pop
+295	greek rock	greek rock
+297	pop-rock	pop-rap
+300	greek hip-hop	greek pop
+301	eurovision	eurovision
+304	hip hop	rap
+305	pop-folk	pop-folk
+306	male vocalists	girl singer
+307	pop folk	pop-folk
+310	modern folk	folk
+311	reggae	reggae
+312	greek folk	greek folk
+314	greek rap	greek pop
+318	traditional	traditional
+327	progressive trance	trance
+351	europop	europop
+355	female pop	girly pop
+356	latin pop	latin pop
+357	dance pop	dancepop
+358	queen of pop	pop queen
+361	radio crazy	radio
+363	brit pop	uk pop
+371	r and b	r&b
+375	russian metalcore	russian metal
+376	metalcore	metalcore
+378	deathcore	deathcore
+379	bosnian thrashcore	thrash
+380	metal core	metalcore
+381	thrashcore	thrash
+382	female melodic death metal	melodic metal
+383	modern melodic metal	melodic metal
+384	modern melodic death metal	melodic metal
+385	melodic death metal	melodic metal
+386	heavy metal	new metal
+387	progressive rock	progressive rock
+388	brit rock	brit rock
+389	britpop	britpop
+391	shoegaze	shoegaze
+392	death rock	death rap
+393	dream pop	dreampop
+397	alterntative rock	rock alternatif
+398	alternative pop	pop
+399	popstars	popstars
+401	king of pop	pop queen
+402	the king of pop	pop queen
+403	michael-jackson-the-king-of-pop	michael-jackson-the-king-of-pop
+408	female vocals	girl singer
+410	albums i own	albums
+414	melodic metal	melodic metal
+417	rock opera	opera
+419	metal god	metal god
+430	heavy rock	hard rock
+441	industrail rock	industrial rock
+444	progessive metal	prog metal
+445	blues rock	blues
+446	grunge rock	grunge
+454	dj tony venilman	dj tony venilman
+457	dj disciple	dj disciple
+458	dj eco	dj eco
+461	dj walus	dj walus
+467	dj antonio	dj antonio
+479	radio romania	radio romania
+480	radio	radio
+494	synth	synth
+495	synth wave	synth wave
+499	melodic	melodic
+505	80s pop	pop 90
+509	dance-pop	dancepop
+510	80s new wave	new wave
+521	italo disco	italo disco
+526	piano	piano
+528	folk rock	pop-folk
+531	guitar hero	guitar hero
+535	baroque	baroque
+540	djent	djent
+542	avant-garde metal	avant-garde metal
+544	composers	composer
+546	jazz fusion	nu-jazz
+549	hardrock	poprock
+550	black music 4 black ppl listened 2 by white hipsters	black music
+551	lastfm hipster artists	lastfm hipster artists
+555	industrial pop	industrial pop
+556	musique concrete	musique concrete
+564	psytrance	psytrance
+565	dark electro	dark electro
+574	dark ambient	dark ambient
+575	darkwave	darkwave
+577	industrial techno	industrial techno
+580	industrial dance	industrial dance
+583	pissbass	pissbass
+593	dark electronic	dark electro
+596	tech-trance	trance
+600	futurepop	futurepop
+602	futurepop anthem	futurepop
+603	hardstyle	hardstyle
+609	hard trance	trance
+615	power metal	power metal
+616	technical thrash metal	thrash metal
+617	speed metal	speed metal
+619	groove metal	groove metal
+620	war metal	war metal
+621	battle metal	war metal
+624	electro house	electro house
+626	drum and bass	drum bass
+627	podcast	podcast
+638	r&b	r&b
+652	rap reggae	reggae
+658	lady gaga	gaga
+661	ballads	ballad
+683	country pop	uk pop
+686	idol	idol
+690	swedish pop	french pop
+692	melhor cantora europeia de todos os tempos	melhor cantora europeia de todos os tempos
+699	trilha sonora	trilha sonora
+712	gospel	gospel
+720	salsa	salsa
+721	trumpet	trumpet
+723	reggaeton	reggae
+725	vivaldi	vivaldi
+726	salsa romantica	salsa
+728	rock en espanol	rock espanol
+729	concerto	concerto
+732	antonio vivaldi	vivaldi
+736	dance rock	dance mix
+738	nu-metal	nu metal
+739	swedish metal	german metal
+741	grindcore	grindcore
+742	brutal death metal	death metal
+743	technical death metal	death metal
+744	death metalcore	death metal
+745	brutal deathcore	deathcore
+747	christian metalcore	metal church
+750	post hardcore	hardcore
+751	russian death metal	russian metal
+756	southern rap	south rap
+758	instrumental hip-hop	instrumental funk
+759	acoustic music	acoustic
+760	rock in rool	rock in rool
+761	pop metal	pop metal
+765	lady gaga play day	gaga
+794	play this loud enough to raise the dead	play this loud enough to raise the dead
+796	music for tossing furniture around	music for tossing furniture around
+800	cello metal	cello
+802	take your shirt off and dance to it	take your shirt off and dance to it
+822	basque	basque
+829	blues	blues
+830	guitar	guitar
+832	music to cry	music to cry
+842	piano rock	piano rock
+843	rock ballad	ballad
+848	hair metal	hair metal
+849	riot grrrl	riot grrl
+851	rock catala	rock catala
+852	christian metal	metal church
+856	mixmaster supreme	mixmaster morris
+858	smooth groove	groove
+860	glorious gospel	gospel
+861	deep house mixes	deep house mixes
+862	90s jam	90s jam
+863	forgotten 80s jam	90s jam
+865	memphis soul	memphis soul
+869	drum 'n' bass	drum bass
+873	70s jazz	jazz
+880	fonky fresh jam	fonky fresh jam
+883	philly soul	philly soul
+884	still a jam	still a jam
+886	albums i have on mp3	albums
+887	new wave songs	new wave
+888	new wave albums	new wave
+890	albums i have on vinyl	albums
+891	synthpop songs	synth
+894	synthpop albums	synth
+897	new wave artists	new wave
+898	albums i have on cd	albums
+906	3 star albums	3 star albums
+907	synthpop artists	synth
+910	4 star albums	3 star albums
+911	electronic albums	electronic songs
+917	electronic songs	electronic songs
+920	alternative albums	alternative music
+922	instrumentals	instrumental
+925	2 star albums	3 star albums
+927	5 star albums	3 star albums
+931	rock albums	album rock
+934	songs to listen to on a sunny day	music for sunny days
+939	weirdo music	weirdo music
+942	space metal	space rock
+947	pirate metal	pirate punk
+950	epic song	epic pop
+957	scholes song	scholes song
+959	po-kraftwerkski	kraftwerk
+965	absolute disco	disco
+970	hellish song	hellish song
+974	tango	tango
+976	true synthpop	synth
+978	opera	opera
+982	pop opera	opera
+985	popera	popera
+988	the phantom of the opera	ghost opera
+989	duet	duet
+990	turandot	turandot
+991	musical	musical
+992	adagio	adagio
+993	phantom of the opera	ghost opera
+1001	darkstep	darkstep
+1003	hardstep	hardstep
+1005	death-metal	death metal
+1007	g-funk	funk
+1008	bandana music	bandana music
+1010	g-funk francais	g-funk francais
+1011	bay rap	bay rap
+1012	chicano rap	chicano rap
+1014	gangsta rnb	gangsta
+1015	pimp rap	pimp rap
+1016	jazz rock	jazz
+1017	math rock	math rock
+1018	jazzcore	nu-jazz
+1019	jazz core	nu-jazz
+1020	indie jazz dance math rock	indie jazz dance math rock
+1036	perdesiz gitar	perdesiz gitar
+1058	flamenco jazz	flamenco
+1059	modern klasik	modern klasik
+1071	rock 'n' roll	rock n roll
+1072	backstage rock shop artist	backstage rock shop artist
+1074	rhythm and blues	rhythm & blues
+1075	scandinavian action rock	finnish rock
+1076	rock n roll	rock n roll
+1077	rock'n roll	rock n roll
+1078	seattle sound	seattle band
+1079	trancecore	trance
+1089	songwriter	songwriter
+1093	fmera album	fmera album
+1099	christmas blend	christmas blend
+1102	duets	duet
+1119	ievan polka	polka
+1124	gaga	gaga
+1127	polka	polka
+1136	bass	bass
+1141	musicals	musical
+1152	alternativemetal	alternativemetal
+1155	80's music	80's music
+1161	heavy funk	funk
+1163	80z pop	80z pop
+1165	popdance	dancepop
+1167	hot track	hot track
+1169	sexy song	sexy song
+1172	dance funk	funk
+1176	mosh song	mosh song
+1178	fun-dance-song	fun-dance-song
+1180	popfun	popfun
+1181	australian rock	nz rock
+1182	genius at work - brilliant song	genius at work - brilliant song
+1183	aussie pop dance band	aussie pop dance band
+1184	80z rock	80z pop
+1186	poprock	poprock
+1189	aweosme rock	aweosme rock
+1193	timeless rock	retro rock
+1198	dreampop	dreampop
+1203	jewish folk alternative rap	jewish folk alternative rap
+1210	southern rock	souther rock
+1211	synth indie rock	synth
+1219	jrock	jrock
+1220	j-metal	j-metal
+1221	japanese hip-hop	japanese rap
+1222	hardcore punk	hardcore rap
+1230	bluesy	bluesy
+1235	regina spektor	regina spektor
+1239	horns	horns
+1245	alternative music	alternative music
+1249	powerpop	powerpop
+1263	experimental metal	experimental metal
+1264	breakcore	breakcore
+1265	speedcore	slowcore
+1273	breakbeat	breakbeat
+1280	ambient black metal	black metal
+1281	funeral doom metal	doom metal
+1283	death/black metal	death metal
+1284	sleaze rock	glam rock
+1285	glam-sleaze rock	glam rock
+1286	glam metal	hair metal
+1287	rock 80s	rock 80s
+1294	pop icon	iconpop
+1295	pop queen	pop queen
+1298	recordwoman	recordist
+1302	composer	composer
+1303	mtv	mtv
+1319	pop princess	pop queen
+1322	post-metal	metal
+1323	grime	grime
+1324	artcore	artcore
+1327	war is like music	war is like music
+1331	guns n roses	guns n roses
+1333	american blues artist group	american blues artist group
+1336	american blues scene	american blues scene
+1338	allboutguitar	allboutguitar
+1340	blues music	blues
+1344	harmonica blues	harmonica
+1348	great song	nice song
+1349	great intro here nice chill beat with uptempo feel as well	great intro here nice chill beat with uptempo feel as well
+1351	vocal trance	trance
+1354	soft rock	hard rock
+1357	eurodance	eurodance
+1358	post-grunge	grunge
+1359	modern metal	new metal
+1360	german metal	german metal
+1361	industrial death metal	death metal
+1362	stoner metal	stoner metal
+1369	radio show	radio
+1372	folk metal	folk metal
+1373	viking metal	german metal
+1374	wolf metal	wolf metal
+1377	country divas	country divas
+1380	female country	male country
+1383	sex pop	sex pop
+1387	country rock	country rock
+1389	female singers	girl singer
+1391	country albums to check out	country songs
+1404	tromboners	trombone
+1425	prog	prog
+1434	the beatles	beatles
+1436	music faz lembrar a a nani num sei pq mais eu lembro	music ki me faz lembrar meu amor s2
+1437	music gay :d	music gay :d
+1438	music ki me faz lembrar meu amor s2	music ki me faz lembrar meu amor s2
+1440	music lembra quando eu thava 7 serie lol	music lembra quando eu thava 7 serie lol
+1441	lol music boa de mais da conta	lol music boa de mais da conta
+1442	rock ballads	ballad
+1443	finnish rock	finnish rock
+1448	educational music	educational music
+1450	childrens music	childrens music
+1451	prog-rock	prog-rock
+1453	beatles influenced	beatles
+1455	dancehall	dancehall
+1456	song for the dumped	song for the dumped
+1458	orchestral pop	pop music
+1459	horror film music	horror rock
+1461	movie music	soundtrack
+1468	roots reggae	reggae
+1478	goth	goth
+1479	brazilian post-punk	brazilian post-punk
+1481	dark pop	dark pop
+1482	dark metal	dark rock
+1483	girl band	boyband
+1485	future-pop	futurepop
+1486	french pop	french pop
+1487	electropunk	electropunk
+1488	synth-rock	synth
+1507	female singer-songwriters	songwriter
+1527	drill n bass	drill n bass
+1531	trash metal	kill metal
+1532	symphonic black metal	black metal
+1533	pagan metal	folk metal
+1535	rock'n'roll	rock n roll
+1536	synthrock	synth
+1537	fusion jazz	nu-jazz
+1538	art rock	art rock
+1539	melodic hardcore	hardcore rap
+1554	romantica	romantica
+1557	the nordic sound	the nordic sound
+1562	filmmussik	filmmussik
+1567	trompeta	trompeta
+1575	vieja ola	vieja ola
+1577	queen of rnb	queen of rnb
+1578	queen of hip hop	dance queen
+1588	king of music	king of music
+1594	filipino	filipino
+1596	singer	singer
+1599	philippines	filipino
+1600	american band	american band
+1603	philippine	filipino
+1609	brazilian pop	brazilpop
+1610	dragmusic	dragmusic
+1612	eletronic pop	eletro-pop
+1616	digital hardcore	hardcore
+1617	cyber-punk	cyber-punk
+1624	digital-punk	cyber-punk
+1625	digital-grindcore	digital-grindcore
+1626	fl band	band
+1627	bossa nova	bossa nova
+1628	russian pop	french pop
+1630	black music	black music
+1634	modern country	modern country
+1640	samba	samba
+1649	songs i can actually listen to on repeat	songs on repeat
+1653	pop bitch	pop bitch
+1655	bitch song	bitch song
+1666	tracks i would put on a movie soundtrack	tracks i would put on a movie soundtrack
+1670	divorced kids anthem	divorced kids anthem
+1671	summer song	summer song
+1682	technical metal	proto metal
+1683	new metal	new metal
+1689	a reason the surfaris should only do instrumental songs	a reason the surfaris should only do instrumental songs
+1692	spooky funk	spooky funk
+1695	gothic calliope	gothic calliope
+1696	poncy goth	poncy goth
+1701	i could tell from the guitar that this is serious rock and roll	i could tell from the guitar that this is serious rock and roll
+1709	thailand street punk	thailand street punk
+1712	cartoon metal	war metal
+1714	outlaw country	outlaw country
+1716	synthmope	synth
+1718	comedy folk goth	comedy folk goth
+1720	which means way more punk than anyone	which means way more punk than anyone
+1721	dusty dark western gothic rock	dusty dark western gothic rock
+1724	deathglam	deathglam
+1725	cowpunk	cowpunk
+1726	go back to kokomo you fucking beach boy assholes	go back to kokomo you fucking beach boy assholes
+1727	glam	glam
+1737	krautrock	kultrock
+1740	trance metal	trance
+1743	gothic goddess	female gothic
+1747	christian black metal	metal church
+1767	country ladies	male country
+1781	fucking hardcore	hardcore
+1783	singer/songwriter	songwriter
+1796	smooth jazz	jazz
+1801	post-dubstep	dubstep
+1803	lil b house	lil b house
+1805	godmother of soul punk	godmother of soul punk
+1812	noise pop	noisepop
+1833	ninja tune	ninja tune
+1834	nu-jazz	nu-jazz
+1836	electronic rock	electro rock
+1842	math metal	math metal
+1852	groove armada	groove armada
+1856	honky tonk	honky tonk
+1860	female and male vocalists	girl singer
+1861	album i own	albums
+1868	soul rock	soul-pop
+1879	seattle band	seattle band
+1883	soap opera	soap opera
+1884	theme song	theme song
+1888	p-funk	funk
+1889	progressive death metal	death metal
+1892	funk rock	funk
+1893	tracks that own	tracks that own
+1894	epic metal	epic metal
+1895	current song im learning	current song im learning
+1896	jazz funk	jazz
+1897	black folk metal	folk metal
+1899	melodeath	melodeath
+1916	norwegian ambient	norwegian ambient
+1917	japanese rap	japanese rap
+1934	music icon track	music icon track
+1938	sweet pornographic track	sweet pornographic track
+1953	daz cds	daz cds
+1957	daz reggae	reggae
+1962	game music	rpg music
+1965	dance music	dance mix
+1972	dance 00s	dance 00s
+1973	house music	house music
+1974	euroreggae	euroreggae
+1977	italodance	italodance
+1985	shockrock	shockrock
+1986	progressive deathcore	deathcore
+1987	progressive metalcore	metalcore
+1988	technical metalcore	metalcore
+1989	technical deathcore	deathcore
+1996	ampop	ampop
+2012	rock band	band
+2018	rock-n-roll	rock n roll
+2021	melodic metalcore	melodic metal
+2022	bode music	bode music
+2024	brazilian metal	mexican metal
+2032	melhor que cine	melhor que cine
+2033	reggae finlandes	reggae
+2039	tr00 metal 666 from hell	tr00 metal 666 from hell
+2045	the only true metal of steel	true metal
+2048	jewish metal	j-metal
+2053	gothenburg metal	german metal
+2060	sub-pop	sub-pop
+2063	alt country	alt country
+2064	alt-country	alt country
+2065	sing-a-long	sing-a-long
+2071	cyber-grunge	grunge
+2073	great album	great album
+2074	siberian sound	siberian sound
+2075	new prog	prog
+2076	cybercore	cybercore
+2077	kirov metal fail	kirov metal fail
+2087	depressive black metal	suicidal black metal
+2088	suicidal black metal	suicidal black metal
+2090	depressive suicidal black metal	suicidal black metal
+2091	true black metal	true metal
+2092	norwegian black metal	german metal
+2093	german thrash metal	thrash metal
+2094	death n roll	death n roll
+2095	blackened thrash metal	thrash metal
+2096	blackened death metal	deadened black metal
+2097	rock female	rock female
+2107	better than beatles	beatles
+2112	70's rock	rock 80s
+2113	slide guitar	slide guitar
+2115	acoustic rock	noise rock
+2120	jam rock	jam
+2121	alt rock	alt rock
+2122	retro rock	retro rock
+2124	southern soul	southern soul
+2126	hard blues	blues
+2128	alternative country rock	country rock
+2129	southern rock revival	souther rock
+2130	wiser time music	wiser time music
+2131	rhythym blues	rhythym blues
+2136	garbage city radio	garbage city radio
+2140	rock hard	hard rock
+2142	songs for gil	songs for gil
+2144	songs for sssi	songs for sssi
+2146	female vocalists i like	girl singer
+2148	the music maker society	the music maker society
+2157	weird al yankovic	weird al yankovic
+2163	gang gang dance	gang gang dance
+2181	banda	banda
+2185	music	music
+2186	band	band
+2191	college rock	college rock
+2192	album rock	album rock
+2193	new zealand rock	nz rock
+2198	pub rock	pub rock
+2204	experimental rock	experimental rock
+2205	new york punk	new york rap
+2206	folk-rock	pop-folk
+2209	arena rock	arena rock
+2210	roots rock	roots rock
+2215	russian rock	russian rock
+2217	straight edge	straight edge
+2218	moshcore	moshcore
+2230	kpop dance	kpop
+2231	traditional country	traditional country
+2232	folk - folkrock - altcountry	folk - folkrock - altcountry
+2234	country gospel	gospel
+2235	twee pop	twee pop
+2237	british folk	folk
+2239	cabaret	cabaret
+2241	cowboy	cowboy
+2243	folk blues	blues
+2244	space rock	space rock
+2245	contemporary folk	folk
+2246	underground hip-hop	rap
+2247	british music	brit rock
+2251	pianist	piano
+2268	shemale vocalist	shemale vocalist
+2272	progressive house	progressive house
+2273	dark psytrance	psytrance
+2276	new wave of british heavy metal	new wave of british heavy metal
+2289	totec radio	totec radio
+2290	dark rock	dark rock
+2292	funkrevolt	funkpunk
+2296	music and miles	music and miles
+2301	steve piccolo	steve piccolo
+2304	strumentale	strumentale
+2305	brass band	brass band
+2307	gabriele caporuscio	gabriele caporuscio
+2317	depressive rock	depressive rock
+2333	electro-pop	electropop
+2334	elecronic rock	elecronic rock
+2335	samba jazz	samba
+2343	rockfull	rockish
+2344	rockpure	rockpure
+2345	modern rock	retro rock
+2356	jebane techno	jebane techno
+2358	melodic trance	trance
+2359	uplifting trance	natural trance
+2361	electro-house	electro house
+2363	ultimate rock ballads	ballad
+2366	rock sujo	rock sujo
+2367	mod rock foda	mod rock foda
+2368	rock brasilis foda	rock brasil
+2369	rock brasilis	rock brasil
+2374	girl bands	boyband
+2381	dj	dj
+2385	abstract hip-hop	rap
+2386	abstract hip hop	rap
+2387	instrumental hip hop	instrumental funk
+2388	ambient breakbeat	breakbeat
+2389	dj shadow	dj shadow
+2390	djs	dj
+2397	hardcore melodico	hardcore rap
+2398	pop music	pop music
+2400	electrropop	electrropop
+2401	club mix	club mix
+2402	dancefloor	dancefloor
+2404	tvorchestvo oligofrenov	tvorchestvo oligofrenov
+2405	gayrock	poprock
+2406	brutal anal gotik metal	brutal anal gotik metal
+2407	gypsy	gypsy
+2418	partycore	partycore
+2419	melodic deathcore	melodic metal
+2420	technocore	technocore
+2422	metalcore metal	metalcore
+2427	straight edge hardcore	straight edge
+2432	sexy rock	rock
+2435	animal grindcore	grindcore
+2449	twilight original soundtrack	twilight soundtrack
+2458	deep house	deep house
+2465	drums	drum
+2475	electro punk	electro punk
+2476	rap core	rapcore
+2479	drum n bass	drum bass
+2480	neurofunk	neurofunk
+2482	drums n bass	drum bass
+2484	darkcore	darkcore
+2485	liquid funk	liquid funk
+2486	dark drum n bass	drum bass
+2488	game soundtracks	rpg music
+2489	video game music	rpg music
+2492	basssss	basssss
+2495	thrash	thrash
+2498	midi-industrial	midi-industrial
+2506	synthcore	synth
+2507	discocore	slowcore
+2508	experimental deathcore	deathcore
+2509	electronic deathcore	deathcore
+2510	meinhundcore	meinhundcore
+2525	nu jazz	nu-jazz
+2526	funky house	funky house
+2530	soulful house	soulful house
+2531	turntablism	turntablism
+2535	french house	french house
+2536	sexrhythmic	sexrhythmic
+2561	bassist	bassist
+2562	indie acoustic	acoustic
+2573	power ballad	power song
+2577	euro-pop	europop
+2579	ivory queen of soul	queen of soul
+2590	psychedelic prog	psychedelic prog
+2591	psychedelic space rock	psychedelic rock
+2596	heaver than beethoven softer than bieber	heaver than beethoven softer than bieber
+2598	billy jack	billy jack
+2600	a band for girls and pussies	boyband
+2604	shock rock	shockrock
+2613	vocal jazz	jazz
+2627	progressive psytrance	psytrance
+2628	natural trance	natural trance
+2629	full on trance	trance
+2630	progressive electro house	electro house
+2638	boybands	boyband
+2651	queen of music	dance queen
+2657	pure pop	pop
+2658	rock alternative	alternative rock
+2663	cute music	cute song
+2666	japanese pop	asian pop
+2669	rock steady baby	rock steady
+2670	fashion	fashion
+2675	dancing queen	dance queen
+2678	morning musume	morning musume
+2684	clazziquai project	clazziquai project
+2686	musicians with extremely sexy voices	musicians with extremely sexy voices
+2694	italian rock	italian rock
+2695	rock italiano	italian rock
+2697	cantautori	cantautor
+2698	cantautore	cantautor
+2710	brilliant cantautor	cantautor
+2711	orgulho latino	orgulho latino
+2722	hardcore e straight edge	straight edge
+2744	japanese metal	greek metal
+2746	southern fried metal	southern metal
+2747	british metal	us metal
+2748	kick ass candian rock	kick ass candian rock
+2750	metal icon	metal icon
+2761	addicted to metal	addicted to metal
+2765	izzy stradlin	izzy stradlin
+2766	acoustic guitar	guitar
+2769	ozzfest	ozzfest
+2772	headbangers ball	headbangers
+2773	thrash metal at  its finest	thrash metal
+2777	hipster-hop	rap
+2779	father of metal	father of metal
+2782	french metal	french metal
+2792	traditional doom metal	doom metal
+2801	dark folk	dark folk
+2821	technocumbia	technocumbia
+2822	peru rock	peru rock
+2824	violin	violin
+2826	peruvian rock	peru rock
+2828	chicha psicodelica	chicha psicodelica
+2829	death brutal technical atmospheric metal	death brutal technical atmospheric metal
+2830	cumbia	cumbia
+2832	musica docta	musica
+2837	viola	viola
+2839	rock peru	peru rock
+2840	cumbia andina	cumbia
+2850	better than lady gaga	gaga
+2855	lonely popstar	popstars
+2858	pop heaven	pop life
+2862	idolos	idol
+2865	pop singer aguilera xtina eletro minaj	pop singer aguilera xtina eletro minaj
+2874	bobim	bobim
+2877	swedish punk	french punk
+2880	swedish rock	finnish rock
+2884	musica para fazer sexo	musica para fazer sexo
+2898	venom	venom
+2902	headbangers	headbangers
+2905	thrashers	thrash
+2933	friday the 13th part 4 soundtrack	friday the 13th part 4 soundtrack
+2939	spirit jazz	jazz
+2947	tape music	tape music
+2954	socialist nazism grindcore	socialist nazism grindcore
+2956	communism death metal	communism death metal
+2961	post-punk new wave goth alternative indie	alternative  punk
+2962	glam new wave	glam new wave
+2984	crunk rock	crunk
+2988	american singer	singer
+3020	i like this song	i like this song
+3021	power song	power song
+3027	ladygaga	ladygaga
+3032	rockn	rockn
+3045	tech house	tech house
+3048	chanson francaise	chanson francaise
+3050	essential ballads	ballad
+3061	orchestral	orchestra
+3063	cirque du soleil	cirque du soleil
+3070	ja chorei horrores	ja chorei horrores
+3075	bluegrass	bluegrass
+3076	slowcore	slowcore
+3085	ghostrock	punkrock
+3106	alpha centauri rock	alpha centauri rock
+3108	mars rock	mars rock
+3110	vangelis	vangelis
+3113	magik	magik
+3114	gothic hip-hop	gothic
+3116	suede	suede
+3133	extreme power metal	power metal
+3135	melodic heavy metal	melodic metal
+3142	guitar gods	guitar god
+3145	new jack swing	new jack swing
+3146	thriller	thriller
+3153	acapella	acapella
+3160	britsong	britsong
+3176	timbaland	timbaland
+3189	game soundtrack	rpg music
+3190	sid metal	sid metal
+3197	flapper	flapper
+3199	nick album release pop rock dark pop	nick album release pop rock dark pop
+3204	anal pop	anal pop
+3208	beatbox	beatbox
+3209	ukrainian pop	french pop
+3212	chick music	chick rock
+3218	songs on repeat	songs on repeat
+3220	tv theme song	theme song
+3227	bosnian metal	bosnian metal
+3231	southern metal	southern metal
+3233	cantonese	cantonese
+3234	flamenco	flamenco
+3235	orchestra	orchestra
+3237	drum	drum
+3248	legendery song	legendery song
+3252	crunk	crunk
+3257	radio killa	radio killa
+3259	symphonic prog	symphonic
+3261	atmospheric rock	atmospheric rock
+3263	progressive black metal	progressive metal
+3264	prog folk	prog folk
+3265	symphonic rock	symphonic
+3268	progressive electronic	progressive electronic
+3271	melancholic rock	melancholic rock
+3272	death doom metal	doom metal
+3273	baroque pop	baroque
+3276	glitch-hop	glitch hop
+3280	the fratellis	the fratellis
+3310	jazzy	jazzy
+3321	the luxo ahazante tour	the luxo ahazante tour
+3330	sexy pop	sex pop
+3332	folk pop	pop-folk
+3335	atmospheric black metal	black metal
+3337	ritual dark ambient	ritual ambient
+3338	finnish black metal	german metal
+3343	melodic black metal	black metal
+3349	female psychobilly	female psychobilly
+3353	martial ambient	martial ambient
+3354	horror ambient	horror ambient
+3355	sound collage psychedelia electronic folk	sound collage psychedelia electronic folk
+3359	lips songs	lips songs
+3361	songs that make me sleepy	sleep music
+3362	songs i like to sing	songs i like to sing
+3369	summer songs	summer song
+3376	songs that tell a story	songs that tell a story
+3379	wizard rock	wizard rock
+3381	euro dance	eurodance
+3412	get me bodied- beyonce	get me bodied- beyonce
+3413	beyonce - get me bodied	get me bodied- beyonce
+3430	thunder	thunder
+3431	western-ish	western
+3433	5 star song	5 star song
+3437	gtasa tracks	gtasa tracks
+3446	real hard anime music	real hard anime music
+3448	bulgarian rock	russian rock
+3449	polish progressive metal	polish metal
+3450	great songs	nice song
+3460	buddha-bar	budha bar
+3464	budha bar	budha bar
+3470	musetta	musetta
+3473	debussy	debussy
+3493	new wave happiness	new wave happiness
+3495	tag your songs properly	tag your songs properly
+3497	nz rock	nz rock
+3507	brazilian rock	rock brasil
+3509	extreme metal	extreme metal
+3510	raw black metal	black metal
+3522	acid hardcore	acid hardcore
+3524	us rock	us rock
+3525	chanson	chanson
+3526	rhythm & blues	rhythm & blues
+3527	madchester	madchester
+3528	swingabilly	swingabilly
+3549	real hip-hop	real rap
+3551	banger	banger
+3555	east coast rap	bay rap
+3558	lyricism	lyrical
+3573	skandinavian music	skandinavian music
+3574	night music	night music
+3578	gitar	gitar
+3579	instrumental rock	album rock
+3584	blues-rock	blues
+3585	garage punk	garage rock
+3593	musical installation	musical installation
+3602	ronni-rock	ronni-rock
+3606	70s rock	rock 80s
+3609	harmonica	harmonica
+3610	cowbell	cowbell
+3620	dj gk	dj gk
+3653	chef musinum	chef musinum
+3656	pirates club lounge	pirates club lounge
+3660	trip beat	trip beat
+3661	lestfm artist	lestfm artist
+3665	electro trance	trance
+3667	dark music	dark rock
+3668	poetic rock	art rock
+3669	post-jazz	jazz
+3671	-pearl fashion music	-pearl fashion music
+3672	techno trance	trance
+3676	funk metal	funk
+3677	chaotic metalcore	chaotic metalcore
+3682	ivete sangalo	singalong
+3685	chicas picantes	chicas picantes
+3687	metal melodico	melodic metal
+3688	female-vocalists	girl singer
+3689	death hardcore	hardcore
+3700	finnish metal	german metal
+3702	symphonic power metal	symphonic
+3704	symphonic	symphonic
+3705	nordic metal	german metal
+3706	true norwegian black metal	german metal
+3707	norwegian metal	german metal
+3709	braindance	braindance
+3712	soft music	soft music
+3715	mixture rock	mixture rock
+3717	noise-rock	noise rock
+3718	electro post rock	electro rock
+3719	musicle	musicle
+3720	hardcore trance	trance
+3743	camper van beethoven	beethoven
+3755	score	score
+3773	gospel brasil	gospel brasil
+3774	anime soundtrack	anime soundtrack
+3776	epic horns	horns
+3777	real blues	blues
+3781	female pop singer	girl singer
+3782	piano songs	piano
+3788	piano song	piano
+3789	pop 90	pop 90
+3792	american trad rock	us rock
+3796	dirrty	dirge
+3802	guitar greats	guitar
+3805	rock-ballad	ballad
+3809	rockapops	rockapops
+3812	bands	band
+3817	brazilian bands	brazilian bands
+3829	straight up modern rock	retro rock
+3832	sex rock	rock
+3834	britrock	britrock
+3838	southern fried rock	souther rock
+3842	dance beat rock	dance mix
+3843	epic rock	epic pop
+3851	wyjebany w kosmos thrash	wyjebany w kosmos thrash
+3870	sunday morning music	sunday morning music
+3874	singer-songwriters	songwriter
+3879	rock chileno	peru rock
+3880	opera rock	opera
+3887	grande cantor	cantora
+3895	melhor musica	melhor musica
+3899	hardbass	hardbass
+3903	ultimate vampire song	ultimate vampire song
+3913	i can imagine that song in a movie	i can imagine that song in a movie
+3916	malaria anthem	malaria anthem
+3922	xp8 ebm futurepop	xp8 ebm futurepop
+3924	bandas venezolanas	bandas venezolanas
+3925	rocksteady	rocksteady
+3929	skinhead reggae	skinhead reggae
+3930	ska rocksteady	rocksteady
+3931	british reggae	reggae
+3933	early reggae	reggae
+3936	rub-a-dub	rub-a-dub
+3938	ethiopian groove	ethiopian groove
+3943	frobeat	frobeat
+3944	juju-music	juju-music
+3947	rap metal	pop metal
+3949	shoegazing	shoegaze
+3952	crabcore	crabcore
+3953	specially addictive soundtrack	specially addictive soundtrack
+3956	pop legend	pop legend
+3958	the next princess of pop	pop queen
+3960	dancey	dancey
+3964	midtempo	midtempo
+3969	beat	beat
+3973	compressive rock	depressive rock
+3974	the funeral drums	drum
+3980	dark cabaret	cabaret
+3981	deep-house	deep house
+3984	nu-disco	nu-disco
+3985	laptop folk	laptop folk
+3988	narcotic house	narcotic house
+3989	slow disco	disco
+3990	western-africa psychedelia	western-africa psychedelia
+3991	nigerian funk	nigerian funk
+3993	future soul	future soul
+3997	bassline	bassline
+3998	tech-house	tech house
+4005	rapido ricardo	rapido ricardo
+4008	syphonic metal	syphonic metal
+4013	electro rock	electro rock
+4015	guitar hero 3	guitar hero
+4021	space age drama	space age pop
+4031	slamming brutal death metal	death metal
+4032	canadian rock	rockabilly
+4033	guns n' roses	guns n roses
+4037	the electrick hotel	the electrick hotel
+4041	hard-heavy rock	hard rock
+4042	hard prog	prog
+4043	heavy prog	prog
+4044	progressive rock related	progressive rock
+4045	pop/rock	pop-rap
+4046	italian progressive rock	italian rock
+4047	italian symphonic prog	symphonic
+4049	folk prog	prog folk
+4051	early heavy metal	new metal
+4052	brazilian music	brazilian music
+4053	manguebeat	manguebeat
+4054	timbaland knock	timbaland
+4066	its a beutiful song	its a beutiful song
+4075	alternativerock	altrock
+4076	popbritish	popbritish
+4077	iconpop	iconpop
+4078	pop/r&b	pop/r&b
+4079	motown	motown
+4080	popbrasil	popbrasil
+4083	funk carioca	funk carioca
+4084	we belong to the music	we belong to the music
+4089	eurovision 2010	eurovision
+4091	billy corgan	billy corgan
+4093	folk music	pop-folk
+4100	spandau ballet	ballet
+4108	fashion related	fashion
+4111	princessa do pop	pop queen
+4114	spanish indie pop	latin pop
+4116	latin rock	latin rock
+4118	killer drums	drum
+4121	mexican black metal	mexican metal
+4122	norsk arysk metal	norsk arysk metal
+4124	greek metal	greek metal
+4125	epic black metal	epic metal
+4126	swedish black metal	german metal
+4127	mexican metal	mexican metal
+4129	folk black metal	folk metal
+4130	death thrash metal	thrash metal
+4143	comets	comets
+4147	psychadelic rock	frogadelic rock
+4165	british rock	brit rock
+4166	drum'n'bass	drum bass
+4167	black hoe recordings	black hoe recordings
+4169	albums i want to own	albums
+4174	rhythm	rhythm
+4210	folk-pop	pop-folk
+4212	armenian folk	turkish folk
+4213	ethno-ballad	ethno-ballad
+4216	concert	concert
+4224	alt. rock	alt rock
+4231	industrial nu metal	nu metal
+4232	agresive metal	agresive metal
+4233	brit music	brit rock
+4234	atmospheric rnb	atmospheric rnb
+4239	banjo	banjo
+4249	queen of soul	queen of soul
+4252	country women	male country
+4253	rolling stone 500 greatest songs of all time	rolling stone 500 greatest songs of all time
+4259	tunes for a brother	tunes for a brother
+4261	delta blues	delta blues
+4262	gospel of shawn	gospel of shawn
+4263	chicago blues	texas blues
+4264	blues fusion	blues fusion
+4265	memphis blues	texas blues
+4268	texas blues	texas blues
+4269	neo-gospel	neo-gospel
+4271	jazz guitar	jazz piano
+4273	bebop	bebop
+4274	cowboys	cowboys
+4275	neo blues	neo blues
+4289	songs ive obsessed over	obsessive songs
+4295	medley	medley
+4297	rock latin	latin rock
+4300	sexy songs	sexy song
+4308	emotional hardcore	hardcore
+4317	death-thrash metal	thrash metal
+4318	death trash grindcore metal	death metal
+4319	groove death metal	groove metal
+4320	death thrash grindcore metal	thrash metal
+4323	death-trash metal	death metal
+4324	toiletten stoner metal	stoner metal
+4327	death-thrash grindcore metal	thrash metal
+4329	death-thrash	thrash metal
+4331	fuckin great thrash	fuckin great thrash
+4332	eath-thrash metal	thrash metal
+4334	death thrash	thrash metal
+4335	fuckin metal	fuckin metal
+4336	kill metal	kill metal
+4338	death-thrashl grindcore metal	thrash metal
+4339	extreme brutal death metal	death metal
+4347	worldmusic	worldmusic
+4348	european music	european song
+4353	melodycore	artcore
+4355	anarco punk	anarco punk
+4358	lithuanian metal	bosnian metal
+4359	patriotic  metal	us metal
+4360	patriotic metal	us metal
+4363	brutal beer metal	beer metal
+4364	pagan black metal	folk metal
+4365	lithuanian black metal	bosnian metal
+4370	latin singer	latin singer
+4377	songs to monkey it up	songs to monkey it up
+4390	frogadelic rock	frogadelic rock
+4393	dark and new wave	dark wave
+4412	pop sensation	sex pop
+4413	rock metal	pop metal
+4414	pop female	girly pop
+4415	opera metal	opera
+4419	jazz-rock	jazz
+4422	industrial groove metal	groove metal
+4423	dominican heavy metal	dominican metal
+4425	lithuanian hip-hop	german rap
+4426	lithuanian hip hop	german rap
+4429	doo wop	doo wop
+4468	slow rock	slow rock
+4470	indy hip-hop	indy hip-hop
+4473	libertarian rap	libertarian rap
+4477	russian underground rap	moscow rap
+4478	japanese grindcore	grindcore
+4479	female fronted grindcore	female fronted grindcore
+4480	ptu thrash metal	ptu thrash metal
+4486	stalin fm	stalin fm
+4487	alternative rap	rap
+4488	melodic antifa-88	melodic antifa-88
+4501	club banger	banger
+4502	gangsta	gangsta
+4514	rap francais	french rap
+4515	choir	choir
+4516	choral	choir
+4517	electric guitar	guitar
+4520	long track	track
+4531	alternative hip-hop	rap
+4532	post-britpop	britpop
+4533	electro-rock	electro rock
+4537	ecological power metal	eco power metal
+4538	eco power metal	eco power metal
+4540	ambiental blues	ambiental blues
+4544	romanian band	europe band
+4559	godfather of moonwalk	godfather of moonwalk
+4560	genius of pop	pop legend
+4561	legend of music	legendery song
+4565	beat from dominicana	beat from dominicana
+4568	french rock	french rock
+4569	french bands	french bands
+4570	power rock	power rock
+4571	rock franais	french rock
+4572	rock alternatif	rock alternatif
+4578	jamendo	jammin
+4579	french punk	french punk
+4580	punkrock	punkrock
+4584	songwritter	songwritter
+4588	rock n' roll	rock n roll
+4589	idols	idol
+4590	finnish pop	french pop
+4593	buena instrumentacion	buena instrumentacion
+4597	blues influence	blues influence
+4601	crooner	crooner
+4602	ballet	ballet
+4605	shoegazer	shoegaze
+4606	violinist	violin
+4607	sune rose wagner	sune rose wagner
+4612	rock argentino	rock argento
+4613	politeconomist realife soundtrack	politeconomist realife soundtrack
+4618	pop latino	latin pop
+4621	guetta	guetta
+4622	mazzy star	mazzy star
+4630	cabaret voltaire	cabaret
+4643	iggy pop	iggy pop
+4648	lamb	lamb
+4649	kraftwerk	kraftwerk
+4652	acid house kings	acid house
+4669	russian melodic death metal	russian metal
+4670	russian metal	russian metal
+4671	emo rock	emo rock
+4676	polish music	polish rap
+4679	japanese music	japan musica
+4684	gothic pop	gothic
+4693	magicsong	magicsong
+4695	sing	sing
+4696	rocketeriarecords	rocketeriarecords
+4708	jazzmine sullivan	jazzmine sullivan
+4710	rocketeria records	rocketeriarecords
+4719	ed banger	ed banger
+4725	basic pop	pop
+4732	quality pop	pop
+4742	eurovision song contest	eurovision
+4748	turkish folk	turkish folk
+4754	kurdish folk	turkish folk
+4758	progressive middle east folk	progressive middle east folk
+4759	oriental jazz	jazz
+4764	nazim hikmet poems	nazim hikmet poems
+4792	percussion	drum
+4794	traditional egyptian folk	traditional egyptian folk
+4795	disneychannel	radio disney
+4800	nx zero pop rock novo	nx zero pop rock novo
+4803	musica brasileira	brazilian music
+4806	baile funk	baile funk
+4823	the power rangers of pop	the power rangers of pop
+4824	queer songs	gay music
+4825	club mixes	club mix
+4826	paradoxal songs	paradoxal songs
+4828	pure fucking metal	fuckin metal
+4829	progressive thrash metal	thrash metal
+4830	technical brutal death metal	death metal
+4832	russian folk metal	russian metal
+4833	groovy death metal	death metal
+4834	gaycore	gaycore
+4836	finnish folk metal	german metal
+4837	experimental black metal	black metal
+4838	atmospheric doom	doom metal
+4839	blackened thrash	thrash metal
+4840	medieval black metal	medieval metal
+4841	folk viking metal	german metal
+4843	guns n'roses	guns n roses
+4844	legio urbana	legio urbana
+4850	female gothic	female gothic
+4851	lyrical	lyrical
+4852	pop bizarre	freak-pop
+4854	jam band	jam
+4855	david guetta	guetta
+4862	excellent synth work	excellent synth work
+4867	tik and tok	tik and tok
+4869	minimal electro	minimal electro
+4883	hardcore rap	hardcore rap
+4885	west coast rap	bay rap
+4886	female electronic	female electronic
+4889	singer songwriter	songwriter
+4896	wanted soundtrack	wanted soundtrack
+4898	streamable album	streamable album
+4916	songs i cry like a bitch to	music to cry
+4932	70s pop	pop 90
+4934	60s pop	pop 90
+4941	electro-acoustic	electroacoustic
+4946	trailer music	trailer music
+4949	opera-like	opera
+4961	queen of dance	dance queen
+4962	just dance	dance
+4965	piece of brit	piece of brit
+4994	movie score composers	film music composer
+4996	melodic death doom metal	melodic metal
+4997	symphonic folk doom metal	doom metal
+4998	swedish melodic death metal	finnish death metal
+5007	shit glam	glam
+5008	rocker chick	rock female
+5023	malbec	malbec
+5033	dark wave	dark wave
+5034	lustpop	lustpop
+5037	darkwave-synth	darkwave-synth
+5039	electro-goth	electro-goth
+5040	bastardpop	bastardpop
+5042	performance	performance
+5044	minimal electronic	minimal electro
+5045	melodic power metal	melodic metal
+5050	atari electronic	atari electronic
+5052	swedish electro	j-electro
+5053	romanian folk	romanian folk
+5056	a cappella	a cappella
+5057	true metal	true metal
+5058	beatles	beatles
+5077	filmgroove	filmgroove
+5087	talk radio	radio
+5091	bellydance	bellydance
+5092	porn soundtrack	sex music
+5095	spaghetti western	spaghetti western
+5100	porn music	sex music
+5103	boss sound	boss sound
+5107	dirty reggae	reggae
+5114	neo-swing	neo swing
+5123	neo rockabilly	neo rockabilly
+5124	irish punk	irish punk
+5125	irish folk	folk
+5129	folk punk	pop-folk
+5143	gospel-noise	gospel-noise
+5147	cowboys and angels	cowboys
+5159	rock steady	rock steady
+5162	melodramatic synths	melodramatic synths
+5171	dudelsackrock	dudelsackrock
+5172	darkwave gothic	darkwave-synth
+5174	gothrock	punkrock
+5184	melodic hard rock	melodic rock
+5192	nerdcore	nerdcore
+5193	german hiphop	hiphop
+5195	hamburg	hamburg
+5225	popular music	popular music
+5238	ukrainian music	ukrainian music
+5239	future fusion metal	fusion metal
+5242	shoulhavemoreplays	shoulhavemoreplays
+5247	chilean rock	peru rock
+5249	prog math rock	math rock
+5250	death rap	death rap
+5254	90s rock	rock 80s
+5255	top rock songs	top rock songs
+5257	2-step	step
+5261	latin boogaloo	latin boogaloo
+5264	chamber pop	chamber pop
+5279	belly dancer	bellydance
+5290	polish music drama	polish rap
+5292	easy a soundtrack	soundtrack
+5296	to sing	sing
+5300	songs that make you want to sing along	songs i like to sing
+5304	song for rides	song for rides
+5312	songs i am likely to start singing loudly in public	songs i am likely to start singing loudly in public
+5315	countrycore	countrycore
+5319	red red groovy	red red groovy
+5332	guitar-based digi-bongo acapella-rap-funk-comedy folk duo	guitar-based digi-bongo acapella-rap-funk-comedy folk duo
+5338	melodic rock	melodic rock
+5366	pop collaboration	pop collaboration
+5367	rick ghraphixxx	rick ghraphixxx
+5373	south rap	south rap
+5382	relaxed-music	relax music
+5385	like rick ghraphixxx	rick ghraphixxx
+5392	bob marley	bob marley
+5394	lamangous hiphop	lamangous hiphop
+5396	southern music	souther rock
+5404	80s hard rock	rock 80s
+5405	stoner psychedelic dull rock	psychedelic rock
+5406	southern stoner rock	souther rock
+5409	mosh metal	moshcore
+5410	rik emmet rock	rik emmet rock
+5412	mountain music	mountain music
+5416	dancecore	dancecore
+5423	synth-goth	synth
+5435	synthesizer	synth wave
+5437	lightwave	darkwave
+5438	urbanwave	darkwave
+5463	club trance	club music
+5477	el mejor regalo de ella con esta cancion 3	el mejor regalode ella con esta cancion 3
+5478	el mejor regalode ella con esta cancion 3	el mejor regalode ella con esta cancion 3
+5488	viejasoss xp por dioos el extrano de pelo largo sin precupaciones va :p  3	viejasoss xp por dioos el extrano de pelo largo sin precupaciones va :p  3
+5491	cd de britney en el auto con replay para cantarla con florr	cd de britney en el auto con replay para cantarla con florr
+5494	space age pop	space age pop
+5502	the greatest hard rock band of 60s	great hard rock band of 80s
+5503	great hard rock band of 80s	great hard rock band of 80s
+5508	they have made the story of the rock n roll	they have made the story of the rock n roll
+5509	great unforgettable rock band	great unforgettable rock band
+5510	the greatest hard rock band on earth	great hard rock band of 80s
+5511	satanic black metal	satanic metal
+5515	boyband flopada	boyband flopada
+5516	bando de gaydacu	bando de gaydacu
+5519	thrashdeath	thrash
+5521	pagan industrial progressive gay pop	pagan industrial progressive gay pop
+5522	mtv black metal	mtv
+5526	drum machine	drum
+5547	country top songs	country songs
+5549	country songs	country songs
+5609	cast of high school musical	high school musical
+5610	high school musical	high school musical
+5615	j-punk	j-punk
+5617	j-hiphop	hiphop
+5622	latin singers	latin singer
+5627	glamophonic electronic disco baby	glamophonic electronic disco baby
+5628	merengue	merengue
+5632	spanish metal	mexican metal
+5645	music to fall asleep to	sleep music
+5665	jazzpop	jazz
+5666	light music	light music
+5677	great bassline	bassline
+5678	great riffs	dat riff
+5685	mixtape	mixtape
+5690	mistah rapsey	mistah rapsey
+5700	horror metal	horror rock
+5701	pirate songs for piratey pirates	pirate songs for piratey pirates
+5702	punk n roll	punk n roll
+5704	2p falls theme music	2p falls theme music
+5709	cool music	cool music
+5710	irish singer	irish music
+5711	elettro pop	eletro-pop
+5719	ramones	ramones
+5728	super singer	singer
+5736	glam punk	glam pop
+5737	punk'n'roll	punk n roll
+5738	sleaze metal	sleaze metal
+5742	beatles julia	beatles julia
+5745	french reggae	reggae
+5751	skate-punk	skate-punk
+5752	emo-punk	emo rock
+5753	melodic hardcore punk	hardcore rap
+5755	ragga punk metal	ragga punk metal
+5756	so fucking cool song	cool music
+5768	the queen of dance pop	dance queen
+5769	the queen of pop	pop queen
+5770	morr music	morr music
+5771	carte postale records	carte postale records
+5777	eglantine records	eglantine records
+5780	type records	type records
+5782	tabla	tabla
+5784	electro-dub	electro-dub
+5786	industrial jungle pussy punk	industrial jungle pussy punk
+5790	pearl jam	pearl jam
+5791	cantautor	cantautor
+5795	rsonists look alike	rsonists look alike
+5796	based music	based music
+5798	glitch glitch hop	glitch hop
+5801	jazz hop	jazz
+5804	driving songs	driving songs
+5809	folk matal	folk matal
+5813	god of metal bass	metal god
+5814	jazz metal	jazz
+5815	techinal death metal	death metal
+5824	new zealands fourth most popular digi-folk parody duo	new zealands fourth most popular digi-folk parody duo
+5832	hard rock revival	hard rock
+5835	designer rock	art rock
+5837	music for sunny days	music for sunny days
+5839	porn folk	porn folk
+5840	nerd rock	nerd rap
+5841	garage rock revival	garage rock
+5843	high energy rock n roll	high energy rock n roll
+5845	theremin	theremin
+5852	fuck-track	track
+5867	belarussian rock	russian rock
+5869	belarusian rock	russian rock
+5876	music to listen to at night	night music
+5879	madonna demo	madonna demo
+5885	pop bitches	pop bitch
+5886	rock pop	pop-rap
+5894	rock brasileiro	rock brasil
+5908	metal legend	epic metal
+5909	dominican metal	dominican metal
+5910	guitars	guitar
+5917	melodies	melodic
+5919	casa de teatro	casa de teatro
+5924	rat food radio	rat food radio
+5928	ramonesy	ramones
+5934	ramonescore	ramones
+5936	skate rock	skate-punk
+5939	80s hardcore	hardcore
+5940	prog kraut rock experimental	prog kraut rock experimental
+5942	talk n roll	talk n roll
+5946	skate music	skate-punk
+5947	thrash speed metal	thrash metal
+5948	teutonic thrash metal	thrash metal
+5949	bay area thrash metal	thrash metal
+5950	first wave of black metal	first wave of black metal
+5970	bossa rock	bossa
+5976	post metal	metal
+5977	post grunge	grunge
+5978	male choir	choir
+5981	boy band	boyband
+5989	pop singer	singer
+5993	violao	viola
+5994	rock brasil	rock brasil
+5995	crista americana	crista americana
+5997	extreme progressive metal	progressive metal
+5998	extreme majestic technical epic melodic metal	extreme majestic technical epic melodic metal
+5999	french death metal	french metal
+6000	progressive folk rock	progressive rock
+6003	music to slay dragons to	music to slay dragons to
+6004	symphonic techno	symphonic
+6006	goth metal	gothic
+6008	godlike rhythm	godlike rhythm
+6014	chip music	chip music
+6026	polish jazz	latin jazz
+6029	tru black satan pr0 norwegian northren uber brutal grindcore progressiv vegetarian technical violent porn metal from kazahstan	tru black satan pr0 norwegian northren uber brutal grindcore progressiv vegetarian technical violent porn metal from kazahstan
+6033	fusion metal	fusion metal
+6036	pop life	pop life
+6037	pop pleasure	sex pop
+6038	fantastic pop album	great album
+6044	90s pop	pop 90
+6047	popgroup	popgroup
+6052	electronica roots	electronica roots
+6057	electronic pop	electropop
+6062	electro dance	electro dance
+6064	power pop punk	power pop punk
+6065	superpowerpop	powerpop
+6066	hip hop screamo electronic	hip hop screamo electronic
+6067	optimistic electronica	optimistic electronica
+6070	altrock	altrock
+6079	musulman	musulman
+6081	salsa pop	salsa
+6082	hip hopcore	dancecore
+6083	japanese rock	japanese rap
+6084	chinese pop	asian pop
+6086	japanese trance	trance
+6087	cantonese pop	cantonese
+6093	korean trance	trance
+6109	ghettotech	ghettotech
+6114	fun rock	rock
+6115	garage band	garage rock
+6116	obsessive songs	obsessive songs
+6117	brazilian funk	nigerian funk
+6137	party music	party music
+6139	rock blues	blues
+6142	gothic-electro	electro-goth
+6143	industrial metal gothic	industrial goth
+6144	panic at the disco	panic at the disco
+6148	dance queen	dance queen
+6149	ancing queen	ancing queen
+6152	nativos del rock	nativos del rock
+6153	coutrycore	coutrycore
+6155	boysband	boyband
+6157	singe-songwriter	songwriter
+6160	girlband	boyband
+6161	neo-thrash	neo-thrash
+6162	hip hop/rap	rap
+6164	uk hip hop	rap
+6169	speedrock	poprock
+6175	keyshia cola	keyshia cola
+6180	pharrell - our father	pharrell - our father
+6190	keyshia cole	keyshia cole
+6213	rhythmic noise	rhythm
+6222	manipulated monkey music	manipulated monkey music
+6225	punk folk	pop-folk
+6241	slamming guttural brutal death metal	death metal
+6244	rock independente	rock independente
+6245	rock in roll	rock n roll
+6246	stoner rock brasil	rock brasil
+6247	rock in rock	rock
+6250	violins	violin
+6251	british pop	uk pop
+6252	brazil hardcore	brazil hardcore
+6259	hiptronica	hiptronica
+6263	christian music	christian music
+6266	hillsong united	hillsong united
+6267	bandas nacionales	bandas nacionales
+6271	musica cristiana	musica
+6274	bitchy lyrics	bitch song
+6281	girly pop	girly pop
+6285	glam pop	glam pop
+6287	banda eva	banda
+6298	new orleans jazz fest	new orleans jazz fest
+6300	sexsongs	sexsongs
+6301	music to get high to	music to get high to
+6311	us metal	us metal
+6313	great riff	dat riff
+6314	guitar god	guitar god
+6317	italian metal	greek metal
+6318	canadian metal	us metal
+6319	super bass	bass
+6320	american metal	us metal
+6321	uk metal	us metal
+6324	traditional metal	new metal
+6325	belgian metal	french metal
+6326	us power metal	power metal
+6329	vocaloid	vocaloid
+6332	hardtek ebm synthpop	hardtek ebm synthpop
+6336	hard house	hard house
+6339	montreal electro	montreal electro
+6350	kazakh pop	french pop
+6352	world pop	uk pop
+6360	flute	flute
+6361	native american flute	flute
+6367	song that makes me cry	music to cry
+6370	go go go go go go go go gadget flow	go go go go go go go go gadget flow
+6373	hip-hop and pop	rap
+6377	dark prog	dark prog
+6378	acid folk	acid folk
+6379	traditional irish	traditional irish
+6380	japanese folk	mexican folk
+6382	flauta	flauta
+6385	60s rock	rock 80s
+6398	the album	the album
+6408	in concert	concert
+6425	hard-core melodico	hard-core melodico
+6428	experimental night pop	experimental pop
+6430	experimental pop	experimental pop
+6435	nu disco	nu-disco
+6437	indie jazz	jazz
+6441	music for making pancakes	music for making pancakes
+6443	rock gospel	rock gospel
+6448	art music	art music
+6449	contemporary chamber music	contemporary chamber music
+6454	daft punk	daft punk
+6474	post-black metal	metal
+6475	medieval metal	medieval metal
+6476	drone metal	drone metal
+6482	skins soundtrack	skins soundtrack
+6485	fashionably punctuated band	fashionably punctuated band
+6498	scenester rap	scenester rap
+6500	music to chase squirrels by	music to chase squirrels by
+6501	play just some guy radio just some guy	play just some guy radio just some guy
+6510	power ballads	power song
+6515	new brazilian artist	brazilian music
+6519	pure rock sound	noise rock
+6520	persian rock	persian rock
+6529	american rock	us rock
+6543	metallic hardcore	hardcore rap
+6552	modern hardcore	hardcore
+6564	jazz piano	jazz piano
+6566	flutes	flute
+6567	world folk	folk
+6569	musica andina	musica
+6570	jazz africa	latin jazz
+6572	djembe	djent
+6576	saxophone	sax
+6578	jazz pianist	jazz piano
+6579	jazz sax	sax
+6583	panpipes	panpipes
+6584	underground hip hop	rap
+6585	nigga music	nigga music
+6586	hip hop instrumental	instrumental funk
+6588	indie gangsta rap	gangsta
+6589	compositions	composing
+6590	ignorant but catchy rap	ignorant but catchy rap
+6593	really shallow pop	really shallow pop
+6594	music totally dedicated to christ	christian music
+6596	niggas that rock	niggas that rock
+6600	music to-well you know	music to-well you know
+6606	metal experimental	experimental metal
+6607	neo-progressive metal	progressive metal
+6608	metal fusion	fusion metal
+6609	charango virtuoso	charango virtuoso
+6610	atmospheric doom metal	doom metal
+6612	rock progressive	progressive rock
+6614	technical doom metal	doom metal
+6615	neo grunge	grunge
+6617	progressive folk metal	progressive metal
+6618	gaita music	gaita music
+6628	barkbarkdisco	barkbarkdisco
+6637	bedroom pop	bedroom pop
+6644	british blues	blues
+6650	garage pop	garage pop
+6651	math pop	math pop
+6669	royal gigolos	royal gigolos
+6670	bomfunk mcs	bomfunk mcs
+6672	guns and roses	guns n roses
+6678	cello	cello
+6685	punk is not dead	punk is not dead
+6687	girly-electro	girly-electro
+6688	monkeyrock	monkeyrock
+6691	dance electro alternative	electro dance
+6695	cyber grunge	grunge
+6702	wedding dance party	dance party
+6704	instrumental alternative	instrumental
+6706	wedding songs	wedding songs
+6707	train sounds	train sounds
+6709	vaudeville	vaudeville
+6714	sub pop	sub-pop
+6733	full metal jacket	full metal jacket
+6756	emotional pop	emotional pop
+6764	thrash till death	thrash metal
+6769	progressive rock -metal-	progressive rock
+6770	who is goth lol	goth
+6773	industrial black metal	black metal
+6778	death-black metal	death metal
+6781	violindustrial	violin
+6782	metal woman froned	metal woman froned
+6799	musical genres	musical genres
+6815	blue songs	blue songs
+6821	fastcore	slowcore
+6823	moshable death metal	death metal
+6824	electric blues	electric blues
+6826	country blues	blues
+6827	boogie	boogie
+6828	blues n boogie	boogie
+6829	modern blues	blues
+6830	jam bands	jam
+6832	eclectric blues	electric blues
+6833	blues guitar	blues guitar
+6834	early rocknroll	rocknroll
+6836	mainstream artists that actually experiment with different genres and succeed	mainstream artists that actually experiment with different genres and succeed
+6843	nice elevator music	nice elevator music
+6846	girl singer	girl singer
+6849	spacerock	poprock
+6850	ambient pop	ambient pop
+6853	hey song youre so fucking cute	hey song youre so fucking cute
+6856	root blues	root blues
+6858	billy idol	billy idol
+6873	syntpop	syntpop
+6893	got it on 8 track	got it on 8 track
+6895	kick ass drummer	kick ass drummer
+6901	nancy sings	nancy sings
+6902	8 track party tape	8 track party tape
+6904	got the highlights 8 track	got it on 8 track
+6906	got the quad 8 track	got it on 8 track
+6907	houston psychedelic rock	psychedelic rock
+6910	real country	real country
+6911	bosnian folk music	bosnian folk music
+6927	passionate hardcore	hardcore
+6932	bossa no	bossa
+6936	prog rock	prog-rock
+6938	a blues prog rampage	a blues prog rampage
+6948	queercore	gaycore
+6949	gay pop	gay pop
+6951	77punk	77punk
+6955	horror rock	horror rock
+6957	sweet electronic	electronic
+6961	brasil gospel	gospel brasil
+6963	brazillian rock	rock brasil
+6967	recordist	recordist
+6968	christian chick rock	chick rock
+6970	danc	danc
+6972	musica	musica
+6975	cantora	cantora
+6979	concept album	concept album
+6980	underground rap	rap
+6981	deutschrock	deutschrock
+6982	rock mexicano	latin rock
+6985	ritual ambient	ritual ambient
+6987	acoustic twee	acoustic twee
+6990	hymn	hymn
+6992	grand funk railroad	grand funk railroad
+7012	precision musicianship	precision musicianship
+7036	funk-jazz	jazz
+7040	contemporary jazz	jazz
+7043	post bop	post bop
+7044	organ trio	organ trio
+7045	electrorock	electrorock
+7046	jazz instrumental	jazz
+7049	latin jazz	latin jazz
+7050	instrumental jazz	jazz
+7051	arabic hip hop	arab rap
+7052	political hiphop	political hiphop
+7053	arab rap	arab rap
+7055	sax	sax
+7056	tenor sax	sax
+7071	dulce maria	dulce maria
+7072	american pop	uk pop
+7073	spanish e dance	spanish e dance
+7074	latin teen pop	latin pop
+7076	universal music	universal music
+7086	dance party	dance party
+7094	tchaikovsky	tchaikovsky
+7097	great geass ed xd	great geass ed xd
+7101	cock rock	rock
+7107	hardcore do mato	hardcore do mato
+7113	relaxing music	relax music
+7116	german synthpop	german synthpop
+7120	rootsreggae	rootsreggae
+7123	roots ragga	roots ragga
+7125	christian rock-pop	rock gospel
+7130	rap-rock	pop-rap
+7178	vocal house	house music
+7182	tribal music	tribal music
+7186	jazz female vocalists	jazz female vocalists
+7187	ambient cello rock	cello
+7201	songs to have sex to	songs to have sex to
+7207	horror soundtrack	horror rock
+7214	intelligent techno	industrial techno
+7221	mike cadoo	mike cadoo
+7226	phil western	phil western
+7227	the most music	popular music
+7243	lyrical brilliance	lyrical
+7247	flasdance	flasdance
+7249	western	western
+7256	berep guest dj closedmouth 239645	berep guest dj closedmouth jfr
+7257	instrumental music that makes you feel-group tag radio	instrumental music that makes you feel-group tag radio
+7259	berep guest dj closedmouth jfr	berep guest dj closedmouth jfr
+7260	heard on 30 jul 06 downtempo sampler radio	heard on 30 jul 06 downtempo sampler radio
+7264	mooog sings	mooog sings
+7265	downtempo custom	downtempo
+7270	technical progressive death metal	death metal
+7271	not math rock	math rock
+7286	prog metal	prog metal
+7287	progressive melodic death metal	melodic metal
+7291	finnish death metal	finnish death metal
+7293	symphonic heavy metal	symphonic
+7294	prog heavy metal	prog metal
+7295	sturgiscore	sturgiscore
+7296	hardcore br00tal	hardcore
+7298	instrumental metal	syphonic metal
+7312	cyber-core	cybercore
+7313	space music	space rock
+7322	new wave of swedish melodic death metal	finnish death metal
+7326	chaikovsky	chaikovsky
+7327	gypsy punk	gypsy
+7328	dinking songs	dinking songs
+7330	muslum gurses	muslum gurses
+7352	dream trance	trance
+7362	albums i need	albums
+7363	albums i have	albums
+7372	cock n roll	talk n roll
+7376	douche music	douche music
+7390	the rasmus	the rasmus
+7397	marinha grande	marinha grande
+7399	pimba	pimba
+7400	fado	fado
+7401	german hip-hop	german rap
+7412	song	song
+7455	uptempo	uptempo
+7456	uk pop	uk pop
+7461	grupo	grupo
+7465	cool jazz	jazzy
+7467	instrumental funk	instrumental funk
+7474	guitar blues	blues guitar
+7475	bluesrock	bluesrock
+7476	blues guitar women	blues women
+7486	fun music	music
+7487	soundtracks	soundtrack
+7488	electro-dub experimentale	electro-dub
+7489	neotraditional country	neotraditional country
+7492	tradtional country	tradtional country
+7493	cheesy pop	cheesy pop
+7495	hardcore country	hardcore country
+7499	western swing	swing
+7501	country to the core	country to the core
+7502	new-traditional country	traditional country
+7503	grand ole opry performer	grand ole opry performer
+7505	new traditional country	traditional country
+7506	genuine country	real country
+7512	rocking	rocking
+7513	great rock-out song	rock out
+7515	christian alternative rock	rock gospel
+7516	dream-pop	dreampop
+7517	brit-pop	uk pop
+7518	space-rock	space rock
+7519	math-rock	math rock
+7520	noise-pop	noisepop
+7526	jetpack music	jetpack music
+7533	frenchcore	frenchcore
+7534	billy talent	billy idol
+7542	acoustic session	acoustic session
+7544	mingle rap	mingle rap
+7545	post-grudge punk	post-grudge punk
+7546	country-folk	folk
+7548	unorthodox pop	unorthodox pop
+7549	j rock	j-rock
+7554	j rock plastic tree	j rock plastic tree
+7556	rock japanese	japanese rap
+7557	jrock kawaiii	jrock
+7561	gothic japanese	gothic japanese
+7564	j rockock	j-rock
+7565	c-rock	c-rock
+7571	j  rock	j-rock
+7578	iceland bjork	iceland bjork
+7586	bronski beat	bronski beat
+7593	soul-pop	soul-pop
+7596	inflight music	inflight music
+7601	light ambient	dark ambient
+7602	futureradio	futureradio
+7605	ambiolectronic	ambiolectronic
+7607	deep electronic	deep-electro
+7614	orchestral metal	syphonic metal
+7615	metal opera	opera
+7619	hair and glam metal	hair metal
+7620	hair band	hair band
+7630	altar of the metal gods	altar of the metal gods
+7637	true female rock	rock female
+7638	post-thrash metal	thrash metal
+7646	cristian rock	cristian rock
+7650	rockstar	rockstar
+7651	lullabies	lullabies
+7652	rock e rock psicodlico	rock psicodlico
+7653	rock psicodlico	rock psicodlico
+7656	electronic junk punk	cyber-punk
+7661	skate punk	skate-punk
+7663	satine rock	satine rock
+7666	emo-metalcore	emo rock
+7669	vogue cardiff	vogue cardiff
+7676	snack music	snack music
+7680	oranger	oranger
+7681	teenage beach sounds	beach music
+7682	ringpop	ringpop
+7686	the troggs	the troggs
+7690	apples in stereo	apples in stereo
+7712	wimpy disco noodles	wimpy disco noodles
+7716	danceee	dancey
+7717	brazilian electro	electro latino
+7718	eletrorock	eletrorock
+7725	deep cuts	deep cuts
+7737	hora de ser mae	hora de ser mae
+7738	cachorra do funk	cachorra do funk
+7744	progresive trance	trance
+7745	minimal house	minimal house
+7747	harmonic	harmonic
+7748	harp	harp
+7752	polish punk	french punk
+7754	great music	great music
+7768	artsy folk-punk	pop-folk
+7801	song with samples	song with samples
+7805	drum attix	drum attix
+7815	bossa	bossa
+7818	weird acoustic	weird acoustic
+7822	freak-pop	freak-pop
+7829	rocketta	rocketta
+7854	non melodic	melodic
+7855	virgin metal	virgin metal
+7872	minimal synth	minimal synth
+7873	baile melancolico	baile melancolico
+7874	french wave	french wave
+7875	euro disco	euro disco
+7876	minimal elektro	minimal elektro
+7877	elektro punk	electro punk
+7881	synthtrial	synth
+7884	russian synthpop	german synthpop
+7888	sythpop	sythpop
+7891	marsheaux	marsheaux
+7898	breakup music	breakup music
+7899	breakup songs	breakup music
+7902	music by friends	music by friends
+7903	kate griffes	kate griffes
+7905	dark songs	dark rock
+7909	music that reminds me of friends	music by friends
+7914	kt tunstall	kt tunstall
+7916	songs i can play	songs i can play
+7925	rockford rock	college rock
+7926	sugar pop punk	power pop punk
+7927	chicago emo	chicago emo
+7933	emo hardcore	emo hardcore
+7935	roselle hardcore	roselle hardcore
+7936	spaztic hardcore	neo hardcore
+7937	pop singles	pop singles
+7944	dance disco eletronic pop jennifer lopez red one pittbull	dance disco eletronic pop jennifer lopez red one pittbull
+7946	piriquita	pimba
+7953	chugga chugga chugga	chugga chugga chugga
+7954	black metal cabeza	black metal cabeza
+7962	mainstream music that doesnt suck	mainstream music that doesnt suck
+7965	babymaking music	babymaking music
+7966	avoid this music at all costs	avoid this music at all costs
+7968	dat riff	dat riff
+7970	regressive post-metal	regressive post-metal
+7972	dat bass	bass
+7976	implying this is prog rock	prog-rock
+7988	rap dominicano	rap dominicano
+7992	lapiz conciente vakero hip hop latino toxic crow rap dominicano	rap dominicano
+7993	regueton	regueton
+7998	irish music	irish music
+8003	tango nuevo	tango
+8011	beethoven	beethoven
+8025	eurobeat	eurobeat
+8028	dance mix	dance mix
+8032	dance with somebody	dance
+8034	acid house	acid house
+8035	marimba	marimba
+8036	musica negra	musica negra
+8039	indie sinewave brazil sao paulo	indie sinewave brazil sao paulo
+8043	oriental rock	persian rock
+8044	quiet mellow tunes	quiet  music
+8048	driving music	driving songs
+8049	gypsyrock	gypsy
+8050	working music	art music
+8053	melodia	melodia
+8058	gordo wallas	gordo wallas
+8072	the most talented singer	singer
+8080	power-pop	power pop
+8085	pop-opera	opera
+8086	christmas carols	christmas carols
+8087	operatic pop	opera
+8100	british soul	british soul
+8110	musicas lindas	linda musica
+8116	turkish rock	turk rock
+8191	samba bucolic	samba
+8192	aussie rock	nz rock
+8193	brazilian indie rock	brazilian post-punk
+8194	baroque harmonic pop jams	baroque
+8195	vintage pop	pop 90
+8197	dj sets	dj sets
+8201	pop-rap	pop-rap
+8202	melodifestivalen	melodia
+8205	music and lyrics :p	music and lyrics :p
+8207	the greatest rock band of all time	great hard rock band of 80s
+8213	drinking songs	drinking songs
+8214	beer metal	beer metal
+8216	music to listen to by a forest river at night	music to listen to by a forest river at night
+8217	songs to beat someone	songs to beat someone
+8233	cancer thats killing music	cancer thats killing music
+8234	musica catalana	musica catalana
+8244	female blues vocalist	blues women
+8245	blues women	blues women
+8246	female blues	blues women
+8248	blues harp	harp
+8252	guitar girl	guitar girl
+8259	polski rap	polski rap
+8261	polish rap	polish rap
+8263	flo rida	flo rida
+8265	polish hip-hop	polish rap
+8266	polski hip hop	polski rap
+8267	female rock	rock female
+8270	earth-shatteringly sexy music	sexy song
+8277	movie soundtrack	soundtrack
+8278	lyrical rock	lyrical
+8279	chevelle	chevelle
+8288	german rock	german rock
+8293	cool rock	cool rock
+8299	rap hip hop	rap
+8306	songs that remind me of summer 07-08	summer song
+8312	songs to make florchuchizz cry	songs to make florchuchizz cry
+8321	sitar	sitar
+8324	depthcore	depthcore
+8326	inditronica	inditronica
+8330	pregressive house	pregressive house
+8338	finish metal	metal
+8339	gods of metal	metal god
+8340	avantgarde black metal	avant-garde metal
+8341	french black metal	french metal
+8342	atmosferic black metal	atmosferic black metal
+8343	polish metal	polish metal
+8344	monster metal	war metal
+8345	devil music	devil music
+8346	sweet country-folk ballad with  a tom waits twist	sweet country-folk ballad with  a tom waits twist
+8347	great indie-rock track with strong vocals	great indie-rock song
+8349	3 fat pills is an anthem of debauchery	3 fat pills is an anthem of debauchery
+8351	francophone	francophone
+8353	acoustic reggae	reggae
+8354	pop with groove	groove
+8355	indie rock pop melodic francophone hooky catchy solid songwriting	indie rock pop melodic francophone hooky catchy solid songwriting
+8356	canadian folk pop singer songwriter rock acoustic	canadian folk pop singer songwriter rock acoustic
+8358	excellente chanson sur la pate a dent	excellente chanson sur la pate a dent
+8359	gorgeous world pop track	gorgeous world pop track
+8363	killer rock song	killer rock song
+8364	welsh indie rock in your face	welsh indie rock in your face
+8366	fabulous melody in this indie rock gem	fabulous melody in this indie rock gem
+8367	hooky rock anthem of cynicism in the media	hooky rock anthem of cynicism in the media
+8368	absolute bomb rock-punk track	absolute bomb rock-punk track
+8370	this song rocks	this song rocks
+8372	great pop with real soul	soul-pop
+8374	great indie-rock song	great indie-rock song
+8379	dream funk	dream funk
+8380	smooth funk flavored milkshake	smooth funk flavored milkshake
+8381	female singer songwriters	songwriter
+8382	girls with guitars	guitar girl
+8383	girl rock	girl rock
+8384	chick rock	chick rock
+8397	jams	jam
+8399	reba mix	reba mix
+8409	k-dance	kpop
+8413	k-rap	k-rap
+8414	asian pop	asian pop
+8443	energy pop	power pop
+8463	alternative  punk	alternative  punk
+8464	klezmer	klezmer
+8465	electronicadance	electronicadance
+8471	rockpop	pop-rap
+8473	martian boogie	martian boogie
+8477	jongleur music pictures	jongleur music
+8478	jongleur music	jongleur music
+8484	r & b	r&b
+8485	rock & roll	rock n roll
+8494	avangarde hip hop	avangarde hip hop
+8506	oscar winning songs	oscar winning songs
+8507	vh1 100 greatest albums	vh1 100 greatest albums
+8511	movie soundtracks	soundtrack
+8513	songs	song
+8514	movie songs	soundtrack
+8520	cult movie songs	cult movie songs
+8523	songs to listen to	songs i can play
+8525	singing actresses	singing actors
+8526	tv soundtracks	soundtrack
+8527	singing actors	singing actors
+8542	bands from las vegas	bands from las vegas
+8546	female rock band	rock female
+8555	misanthropic black metal	black metal
+8556	extreme black metal	extreme metal
+8557	sophisticated black metal art	art metal
+8559	techincal metal	proto metal
+8560	death metal pioneers	death metal pioneers
+8561	smooth piano	smooth piano
+8564	interesting music	interesting music
+8565	british black metal	us metal
+8566	american black metal	black metal
+8567	music that makes your head explode of amazement	music that makes your head explode of amazement
+8620	garden state soundtrack	garden state soundtrack
+8621	six feet under soundtrack	six feet under soundtrack
+8622	walk the line soundtrack	walk the line soundtrack
+8623	south park bigger longer uncut soundtrack	south park bigger longer uncut soundtrack
+8624	alfie soundtrack	alfie soundtrack
+8627	batman returns soundtrack	batman returns soundtrack
+8631	the last kiss soundtrack	the last kiss soundtrack
+8633	ljubomir sedlar jazz funk	ljubomir sedlar jazz funk
+8635	funkadelian	funkadelic
+8638	funk soul rock sly larry jerry	funk soul rock sly larry jerry
+8640	uncle jam one nation clinton	uncle jam one nation clinton
+8642	hexstatic ninja tune masterview	hexstatic ninja tune masterview
+8643	p funk george bootsy bernie gary	p funk george bootsy bernie gary
+8644	dj food ultimate funk groove	dj food ultimate funk groove
+8648	rony playstation	rony playstation
+8649	pure groove	groove
+8650	tagged indie just for the sake of it i guess	tagged indie just for the sake of it i guess
+8652	gremio rock	gremio
+8656	gremio	gremio
+8663	eletro-pop	eletro-pop
+8665	viollet	viollet
+8667	bom pra caralho	bom pra caralho
+8672	brain dance	braindance
+8680	wierd-groove	groove
+8692	head groove	head groove
+8697	heard on pandora	heard on pandora
+8711	riot grrl	riot grrl
+8712	listen at night	night music
+8718	gooncore	gooncore
+8719	country metal	us metal
+8720	straight outta compton	straight outta compton
+8722	anarcho punk	anarco punk
+8725	dogcore	dogcore
+8727	kroegercore	kroegercore
+8735	boa musica	boa musica
+8736	voz marcante	voz marcante
+8739	musica boa	boa musica
+8743	clipe sinistro	clipe sinistro
+8745	melhor compositor do brasil	melhor compositor do brasil
+8747	que musica boa	boa musica
+8748	very cool rock song	cool rock
+8749	musica realista	musica
+8750	linda musica	linda musica
+8753	grande musica	musica
+8754	ultra musica	ultra musica
+8776	sibelius	sibelius
+8778	mahavishnu orchestra	mahavishnu orchestra
+8789	composing	composing
+8801	art-rock	art rock
+8804	irish traditional	traditional irish
+8820	concertina	concertina
+8821	pipes	pipes
+8824	accordian	accordian
+8825	slip jig	slip jig
+8826	late night tunes	night music
+8827	study tunes	tunes
+8833	funkadelic	funkadelic
+8834	driving tunes	driving songs
+8838	late nite tunes	late nite tunes
+8839	progressive power metal	progressive metal
+8845	female singer	girl singer
+8850	melancholisch	melodia
+8867	cello rock	cello
+8875	murder ballad	murder ballad
+8876	rhythm'n'blues	rhythm & blues
+8877	poor boy songs	poor boy songs
+8879	cute girl rock	girl rock
+8882	saxophones	sax
+8885	swedish death metal	finnish death metal
+8893	peace punk	peace punk
+8894	anarcho-punk	anarco punk
+8899	instrumental blues	rhythm & blues
+8904	lyrical acoustic folk	acoustic folk
+8907	rpg music	rpg music
+8908	alchemic rock	alchemic rock
+8909	rolesong	rolesong
+8910	acoustic blues	blues guitar
+8911	blues rock guitarist	blues guitar
+8912	blues guitarists	blues guitar
+8914	papillon	papillon
+8915	running song	running song
+8923	rock night songs	top rock songs
+8927	songs that you wanna listen to over and over again	songs on repeat
+8928	das rockt	das rockt
+8930	epic music	epic pop
+8938	sakral musik	sakral musik
+8939	singer song writer	songwriter
+8954	britpop 90s generation	britpop
+8959	depressive synth	depressive synth
+8960	dirty punk rock	punk n roll
+8961	christian power metal	metal church
+8962	metal sisters	metal sisters
+8981	light pop relaxing	light pop relaxing
+8983	medo	medo
+8987	nerd rap	nerd rap
+8989	acid rock	acid rock
+8991	waltz	waltz
+8993	smokeyblues	smokeyblues
+9003	electrohop	electrohop
+9012	two step	step
+9021	rock latino	latin rock
+9025	major tom	major tom
+9026	funk to funky	funk
+9027	la cancion de mi generacion	la cancion de mi generacion
+9033	dark trance	trance
+9034	uk hardcore	hardcore
+9035	synth rock	synth
+9066	busta rhymes	busta rhymes
+9071	epic symphonic metal	symphonic
+9072	symphonic melodic power metal	symphonic
+9073	axel ritt guitar shred	axel ritt guitar shred
+9078	musso	musso
+9093	new grass americana	new grass americana
+9094	blues slide guitar maestro	slide guitar
+9098	strings acoustic	acoustic
+9099	blues band	blues
+9100	industrial goth	industrial goth
+9123	ziggyesque	ziggyesque
+9130	performance art	performance
+9142	on the bone records	on the bone records
+9173	rumba	rumba
+9180	male country	male country
+9188	flamenco pop	flamenco
+9190	junior songfestival	junior songfestival
+9191	rumbapop	rumba
+9192	boyband	boyband
+9193	rumbita	rumba
+9196	melodic pop	pop music
+9197	rumba-rock	rumba
+9203	hot rockin girl	girl rock
+9206	rare rockabilly	rare rockabilly
+9207	wonderful doo wop	doo wop
+9208	chicago rockabilly	chicago rockabilly
+9209	doo-wop	doo wop
+9210	jive	jive
+9211	country style rock n roll	rock n roll
+9213	doo wop jivers	doo wop jivers
+9214	neo-rockabilly	neo rockabilly
+9215	white doo wop	doo wop
+9216	british rockabilly	rockabilly
+9217	roots of rockabilly	roots rock
+9218	canadian rockabilly	rockabilly
+9221	memphis rockabilly	memphis soul
+9222	rock n roll jivers	rock n roll jivers
+9224	louisiana rock n roll	rock n roll
+9225	boogie woogie	boogie
+9226	countrybilly	countrybilly
+9227	sun rockabilly	sun rockabilly
+9228	southern country rock	souther rock
+9229	country roots of rock n roll	rock n roll
+9230	country billy	billy jack
+9231	rockabilly women	rockabilly women
+9234	mambo	mambo
+9239	experimental techno	industrial techno
+9240	sweet bands	sweet bands
+9241	new traditionalist	traditional
+9243	toytronica	toytronica
+9252	josh groban	josh groban
+9259	chill house	chill house
+9261	electronic dance music	dance mix
+9264	eastern europe rock	eastern europe rock
+9273	piratas	piratas
+9279	chica pop	chica pop
+9298	crucial reggae	reggae
+9302	bossa-nova	bossa nova
+9304	woodstock	woodstock
+9313	rock music	album rock
+9323	j-music	jmusic
+9325	jmusic	jmusic
+9326	c-pop	c-pop
+9327	cpop	cpop
+9328	chinese music	chinese music
+9329	rockish	rockish
+9338	sweetcore	sweetcore
+9343	female rap	female rap
+9356	italo-disco	italo disco
+9357	trombone	trombone
+9360	club music	club music
+9364	scandi-pop	scandipop
+9365	acoustic chillout easy listening	acoustic chillout easy listening
+9366	scandipop	scandipop
+9367	female rocker	rock female
+9371	caibo para que vuelvas sandunguera maracaibo pop	caibo para que vuelvas sandunguera maracaibo pop
+9422	gay music	gay music
+9429	dark disco	disco
+9433	in the chillwave family	in the chillwave family
+9448	gan-radio	gan-radio
+9449	deep-electro	deep-electro
+9451	electro minimalist	minimal electro
+9453	serbian jazz	latin jazz
+9456	slut wave	slut wave
+9462	gop style	gop style
+9463	siberian punk	siberian punk
+9468	fatal song	fatal song
+9491	musica popular brasileira	brazilian music
+9497	jerk music	jerk music
+9498	screamo crunkcore shit	screamo crunkcore shit
+9499	electro-hop	electro-hop
+9501	french electronic	french electro
+9512	powerpop that makes meh fuzzy inside	powerpop
+9516	geek rock comedy	geek rock comedy
+9517	kinda country super sexy	kinda country super sexy
+9530	rock alternativo	rock alternatif
+9536	female vocalists - brazilian	girl singer
+9543	german punk rock	german rock
+9546	the blues brothers	the blues brothers
+9548	popcore	popcore
+9549	indie balladen	indie balladen
+9550	a capella	a capella
+9562	little miss sunshine soundtrack	little miss sunshine soundtrack
+9563	birthday song	birthday song
+9592	electro girls	girly-electro
+9595	disco punk	disco
+9598	disco fuckin yea	disco bullshit
+9602	debilcore	debilcore
+9613	polish death metal	polish metal
+9616	mallcore	mallcore
+9617	slam death metal	death metal
+9618	deathgrid	deathglam
+9619	rock patriotyczny	rock patriotyczny
+9621	not death metal	death metal
+9622	hyperblasting technical brutal death metal	death brutal technical atmospheric metal
+9624	technical black metal	black metal
+9626	this is not deathcore	deathcore
+9638	white funk	white funk
+9642	rock progressivo italiano	italian rock
+9643	prog folk  romania	romanian folk
+9651	crap music--delete this song	crap music--delete this song
+9652	richard dixon radio	richard dixon radio
+9657	piano pro	piano pro
+9658	christian blues	blues
+9659	richard dixon  radio	richard dixon radio
+9662	alternative rock  gooood	alternative rock
+9674	music for life	music for life
+9690	dandy	danc
+9698	songs that make me cry	music to cry
+9719	dr house	dr house
+9720	melancholic synth-pop	melodramatic synths
+9721	progressive pop	progressive pop
+9727	vocalista feminimo	girl singer
+9728	musica russa	musica russa
+9729	grupo feminimo	grupo
+9730	grupo masculino	grupo
+9733	heatbreaker songs	heatbreaker songs
+9743	robot rock	robot rock
+9754	bleep-bloop punk	bleep-bloop punk
+9755	tumblrcore	tumblrcore
+9759	eletro pop	eletro-pop
+9763	singalong	singalong
+9768	across the universe soundtrack	across the universe soundtrack
+9770	harry potter soundtrack	harry potter soundtrack
+9772	piano led indie	piano led indie
+9781	led zeppelin  - immigrant song	led zeppelin  - immigrant song
+9783	aeroelectronic punk	aeroelectronic punk
+9790	trash electro	trash electro
+9791	shinee ringdingdong kpop ring ding ding k-pop	shinee ringdingdong kpop ring ding ding k-pop
+9795	ghost opera	ghost opera
+9798	goa trance	goa trance
+9800	rhapsody	rhapsody
+9801	gms	gms
+9810	stripper music	stripper music
+9816	electro prog	electro prog
+9820	idolo	idol
+9829	es pop mama	es pop mama
+9832	oh electropop	electropop
+9833	world beats	world beats
+9834	acoustic emo	acoustic emo
+9847	rhythmic	rhythm
+9848	lou reed	lou reed
+9855	abraham son of teraj brother of najor and aram inspired music	abraham son of teraj brother of najor and aram inspired music
+9863	quiet  music	quiet  music
+9864	short song	short song
+9955	bruno likes this song	bruno likes this song
+9960	nice song	nice song
+9964	music i like	music
+9966	should come play in brazil	should come play in brazil
+9967	musica perfeita	musica perfeita
+9971	synthpunk	synth
+9972	dance - trance	trance
+9973	seen in concert	concert
+9974	work out music	workout songs
+9981	king of country	king of music
+9984	billy ray cyrus	billy ray cyrus
+9985	metaldeath-core	metalcore
+9986	folk death metal	folk metal
+9987	hard rock n roolz	hard rock
+9989	progressive-mathcore	progressive-mathcore
+9990	nu-skool hardrock-core	nu-skool hardrock-core
+9991	j-pop acoustic	j-pop
+10001	hip hop sul	hip hop sul
+10002	tri hop	tri hop
+10003	rock sulista	rock sulista
+10004	skiffle	skiffle
+10012	electrocore	electrohop
+10021	russian rap	moscow rap
+10024	synth-gothic	synth
+10062	alternative eletro rock	elecronic rock
+10066	nouvelle scene francaise	nouvelle scene francaise
+10069	portuguese band	brazilian bands
+10073	southern rock is coolio	souther rock
+10075	rocked	rocked
+10087	adult alternative rock	alternative rock
+10089	baroque and chamber pop	baroque
+10091	pop - rock	pop-rap
+10093	succulent 3s	succulent 3s
+10094	electronic-pop	electropop
+10104	ootcore	ootcore
+10106	i detect massive win in this song	i detect massive win in this song
+10108	muslim rave	muslim rave
+10109	whatcore	slowcore
+10121	slap bass	slap bass
+10125	pirate punk	pirate punk
+10126	troglodyte music	troglodyte music
+10137	true goth emo	goth
+10139	albums	albums
+10153	christian pop	gay pop
+10157	soft-rock	hard rock
+10176	fim	fim
+10199	acoustic folk	acoustic folk
+10212	musikfuerrundumdieuhr	musikfuerrundumdieuhr
+10214	wonderful music	great music
+10221	radio disney	radio disney
+10229	post-prog	post-prog
+10234	metal meltdown	metal meltdown
+10239	female vocalists i actually like	girl singer
+10245	please plaese please only play instrumental	please plaese please only play instrumental
+10257	library music	library music
+10258	northern soul	southern soul
+10262	rumpelmusike	rumpelmusike
+10265	deutscher pop-rock	german rock
+10274	2step	2step
+10276	tracks	track
+10278	track	track
+10279	step	step
+10283	soul female vocalists british singer-songwriter	soul female vocalists british singer-songwriter
+10297	american music	american band
+10299	girlsband	boyband
+10302	boysbands	boyband
+10311	be-my-baby drum	be-my-baby drum
+10314	mountain road trip music	mountain music
+10315	suicide songs	suicide songs
+10316	sci-fi beats	sci-fi beats
+10326	canto	canto
+10332	rapp metal	pop metal
+10333	punk rock fusion	rock fusion
+10334	funkpunk	funkpunk
+10335	music to make you think about shit punk	music to make you think about shit punk
+10337	gutter metal	gutter metal
+10341	river city hardcore	river city hardcore
+10343	southern punk rock	souther rock
+10350	bulb records	bulb records
+10353	california speed metal punk band	california speed metal punk band
+10356	mall metal	mall metal
+10358	alternative funk jazz industrial noise fusion	alternative funk jazz industrial noise fusion
+10362	rhythmalizm	rhythmalizm
+10363	rhymez	rhymez
+10366	funkalistic	funkalistic
+10373	1-2-cha-cha-cha	1-2-cha-cha-cha
+10374	funkalistik	funkalistic
+10375	quickjazz	quickjazz
+10378	swing jazz	jazz
+10392	romantic rock	romantic rock
+10394	rock-pop	pop-rap
+10401	music from soul	soul-pop
+10403	latvian rock	finnish rock
+10409	turk rock	turk rock
+10410	anadolu rock	anadolu rock
+10417	elektronic	elektronic
+10422	alternative heavy rock	alternative rock
+10423	alt-rock	alt rock
+10426	alternative pop-rock	alternative rock
+10430	melodic deathmetal	melodic metal
+10433	harcore punk	harcore punk
+10438	russian underground hip-hop	moscow rap
+10441	rap russian	moscow rap
+10444	moscow rap	moscow rap
+10445	electro hop	electro-hop
+10452	soundtrack musical	soundtrack
+10453	punk goes	punk goes
+10460	cast disney	cast disney
+10461	disco rock	disco
+10462	elektronik	elektronic
+10472	brazilian emo	brazilian emo
+10473	rocknroll	rocknroll
+10474	musica para beber e brigar	musica para beber e brigar
+10476	violino	violin
+10487	radio:active	radio:active
+10488	variete francaise	variete francaise
+10494	postrock	poprock
+10496	sounds like iggy pop	iggy pop
+10497	sounds like matthew dear	sounds like matthew dear
+10498	noisepop	noisepop
+10514	country: the philippines	filipino
+10544	dirge	dirge
+10551	fashion girls	fashion
+10554	j-core	j-core
+10555	k-hip hop	k-rap
+10557	c-hip hop	rap
+10558	jhiphop	jhiphop
+10563	soda stereo	soda stereo
+10564	rock argento	rock argento
+10565	blues argento	blues argento
+10566	rock psicodelico	rock psicodlico
+10567	rock en castellano	rock en castellano
+10568	rock fusion	rock fusion
+10569	electronica experimental	electronica experimental
+10570	electronic progressive jazz rock	progressive rock
+10571	psicoelectronica	psicoelectronica
+10572	folclore argentino	folclore argentino
+10573	blues castellano	blues castellano
+10577	melodico argentino	rock argento
+10578	bossanova	bossa
+10579	jazz pop	jazz
+10581	experimental hip-hop	rap
+10584	splittercore	splittercore
+10585	jukebox project	jukebox project
+10587	tambourine	tambourine
+10595	multiple jarvgasms	multiple jarvgasms
+10598	songs that have whoo in them	songs that have whoo in them
+10604	sexy falsetto music time	sexy falsetto music time
+10608	pop gladiators	pop gladiators
+10609	jam hot	jam
+10613	phallic trumpet	trumpet
+10616	doctor syntax the warforged bard	doctor syntax the warforged bard
+10621	art metal	art metal
+10642	j-pop japanese pop jpop female vocalists jazz japanese music j-rock	j-pop japanese jpop pop anime japan hip-hop female vocalists
+10643	pop female vocalists rock dance alternative hip-hop female rnb	pop female vocalists rock dance alternative hip-hop female rnb
+10645	pop rock female vocalists canadian punk alternative pop rock female	pop rock female vocalists canadian punk alternative pop rock female
+10647	j-pop japanese jpop pop female vocalists japan japanese music asian	j-pop japanese jpop pop anime japan hip-hop female vocalists
+10648	j-pop japanese jpop pop anime j-rock female vocalists japanese music	j-pop japanese jpop pop anime japan hip-hop female vocalists
+10649	j-pop japanese jpop pop anime japan hip-hop female vocalists	j-pop japanese jpop pop anime japan hip-hop female vocalists
+10651	french electro	french electro
+10654	jazz vocal	jazz
+10657	avant pop	avant pop
+10659	pop trash	pop trash
+10667	surfcore	surfcore
+10671	neo hardcore	neo hardcore
+10677	japanese punk	japanese rap
+10678	japanese rockabilly	japanese rap
+10681	early music	early music
+10724	band perry	band perry
+10725	bon jovi	bon jovi
+10727	hootie and the blowfish	hootie and the blowfish
+10728	stolen song	stolen song
+10729	the band perry	band perry
+10735	uk bass	bass
+10750	looooooooooooooooooooooooove this song	looooooooooooooooooooooooove this song
+10752	songs that are so pretty they almost hurt	songs that are so pretty they almost hurt
+10760	music makes you lose control	music makes you lose control
+10777	listenable emopop	listenable emopop
+10778	billy howerdel	billy howerdel
+10783	nothin on but the radio	nothin on but the radio
+10785	kraby the klown	kraby the klown
+10788	crunkcore	crunk
+10789	gothic glam	gothic
+10790	scene band	scene band
+10791	prostitude music	prostitude music
+10795	cm punk	cm punk
+10798	up beat	beat
+10799	guitar band	band
+10800	top tune	tune
+10802	radio friendly	radio
+10803	great sound	great music
+10808	clickpop	iconpop
+10810	sexy fucking dance	sexy fucking dance
+10811	girl electro rock	girly-electro
+10821	hip hop techno electronica beggars rap	hip hop techno electronica beggars rap
+10822	vampiric metal	satanic metal
+10825	psychdelic dark ambient sludge avant-garde experimental doom drone metal	psychdelic dark ambient sludge avant-garde experimental doom drone metal
+10827	zalim metal	zalim metal
+10830	balyoz metal	balyoz metal
+10831	hele hele metal	hele hele metal
+10836	heavy doom metal	doom metal
+10838	psychedelic dark ambient sludge avant-garde experimental doom drone metal	psychdelic dark ambient sludge avant-garde experimental doom drone metal
+10839	metalocalypse	metalocalypse
+10845	progressive ambient rock	ambient rock
+10865	pinkroom	pinkroom
+10866	pink room	pinkroom
+10877	gta soundtrack	gta soundtrack
+10885	00s rock	00s rock
+10889	synth-funk	synth
+10903	tune	tune
+10938	glamorous	glam
+10946	princess of pop	pop queen
+10947	jammin	jammin
+10959	twilight soundtrack	twilight soundtrack
+10961	synth gothic	synth
+10962	melodic punk	melodic rock
+10967	we have band	we have band
+10989	video games music	rpg music
+10992	rampeira	rampeira
+11002	vadia que faz musica boa	boa musica
+11003	lenda do folclore brasileiro	lenda do folclore brasileiro
+11008	golfinho	golfinho
+11023	thrash/death metal	thrash metal
+11024	satanic black metal from hell	satanic metal
+11032	brit-rock	brit rock
+11033	heavy blues rock	blues
+11035	chick vocal	chick rock
+11036	dream pop  electropop	dreampop
+11041	high school musical 3	high school musical
+11045	indie indie pop acoustic mellow norwegian alternative indie rock folk scandinavian	indie indie pop acoustic mellow norwegian alternative indie rock folk scandinavian
+11048	sheffiel bands	sheffiel bands
+11055	proto metal	proto metal
+11056	traditional heavy metal	new metal
+11057	heavy blues	blues
+11059	horrorcore rap	rapcore
+11063	emo alternativo hardcore pop rock	emo hardcore
+11068	hardcore metal	hardcore rap
+11071	sex music	sex music
+11082	essential instrumental versions	instrumental
+11085	sleeptronica	sleeptronica
+11088	intergalactic hip-hop	intergalactic hip-hop
+11112	sleighbells	sleighbells
+11128	the london school of music	educational music
+11142	satanic metal	satanic metal
+11146	girl-band	boyband
+11149	girlbands	boyband
+11160	hard grunge	grunge
+11161	samba-rock	samba
+11164	american jazz	jazz
+11165	brazilian jazz	latin jazz
+11168	acoustic christian	acoustic christian
+11169	brazilian ska	brazilian ska
+11170	pre-grunge alternative rock	grunge
+11171	relax music	relax music
+11173	alternative & punk	alternative  punk
+11179	brit style	brit style
+11181	exposure music awards	exposure music awards
+11182	melody pop	pop music
+11184	workout songs	workout songs
+11190	poppunk	poppunk
+11197	melodic punk-rock	melodic rock
+11201	pop-punk fury	pop-punk fury
+11202	punk rock show	punk rock show
+11205	hungarian punk-rock	french punk
+11208	true punk	punk goes
+11209	hungarian punk	french punk
+11211	punk rock-n-roll	punk n roll
+11215	singalong punk	singalong punk
+11236	cute song	cute song
+11247	techno-industrial	industrial techno
+11250	hard dance	dance
+11251	hip-hop industrial	hip-hop industrial
+11258	music for your ears	music for your ears
+11259	melodramatic popular song	melodramatic popular song
+11274	rock out	rock out
+11290	electronic house	electro house
+11293	white rap	south rap
+11327	melodic thrash metal	thrash metal
+11336	lms artist	lms artist
+11340	alternative soul	future soul
+11341	guitarishness	guitar
+11343	twin guitar	twin guitar
+11348	european song	european song
+11367	dark shoegaze	shoegaze
+11378	military march	military march
+11381	ottoman military band	ottoman military band
+11395	spiritual trance	natural trance
+11401	really great punk rock	really great punk rock
+11405	deutscher rock	german rock
+11406	kultrock	kultrock
+11408	epic ballads	ballad
+11419	funk folk	funk
+11438	white metal	metal
+11441	d-beat	d-beat
+11442	songwriters	songwriter
+11446	songs that make you wanna get up and dance	songs that make you wanna get up and dance
+11453	rap eletronic	rap eletronic
+11457	skatepunk	skatepunk
+11459	native american music	tribal music
+11463	funky pop	freak-pop
+11468	guitarrist	guitarrist
+11472	strange voice rap	strange voice rap
+11476	new-hop	tri hop
+11483	drumz	drumz
+11495	minskcore	minskcore
+11499	leftovergrooves	leftovergrooves
+11500	musthavealbums	musthavealbums
+11501	groovesuspects	groovesuspects
+11503	smooth reggae	reggae
+11517	world groove	worldmusic
+11526	casablanca	casablanca
+11530	drum bass	drum bass
+11532	blissrock	blissrock
+11534	kill rock stars	kill rock stars
+11551	italian prog	italian prog
+11552	oriental metal	greek metal
+11553	mutant hop	mutant hop
+11554	undergroung hip-hop	rap
+11556	hip-hop kovsh	k-rap
+11557	graffity hip hop	rap
+11558	khimki rap	k-rap
+11559	under hop	under hop
+11563	black rap	south rap
+11564	miami bass	bass
+11567	dj's	dj
+11571	radio free download	radio free download
+11573	funky house mxes	funky house
+11580	hip hop soul	soul-pop
+11581	mandopop	mandopop
+11582	alternative hip hop	rap
+11583	dance-rock	dance mix
+11598	next queen of pop	pop queen
+11599	you cannot listen to this without singing along	you cannot listen to this without singing along
+11605	funky white bitch	white funk
+11626	atmospheric drum and bass	drum bass
+11628	jazzy house	jazzy house
+11629	detroit techno	detroit techno
+11632	drumfunk	drumfunk
+11634	disco house	disco house
+11635	intelligent drum and bass	drum bass
+11636	london symphony	london symphony
+11638	brazilpop	brazilpop
+11639	mel c	mel c
+11640	symphony orchestra	orchestra
+11653	sweet music	sweet bands
+11655	georgian blues	georgian blues
+11656	teenagerpunk	teenagerpunk
+11658	banda do sul	banda
+11660	indie jazz rock	jazz
+11667	indie rock blase	indie rock blase
+11668	eletro-samba	eletro-samba
+11669	new folk	folk
+11670	garage-rock	garage rock
+11672	german rap	german rap
+11678	german hip hop	german rap
+11687	beach music	beach music
+11712	songs that makes you want to be rich	songs that makes you want to be rich
+11716	early mtv	mtv
+11720	amazin beat	amazin beat
+11721	songs are like time machines	songs are like time machines
+11722	emo by april	emo rock
+11724	melodic alternative metal	melodic metal
+11725	pop death metal	pop metal
+11726	pop metalcore	popcore
+11730	irish folk punk rock	irish punk
+11749	la diva turca	la diva turca
+11757	film music composer	film music composer
+11758	hk-pop	hk-pop
+11759	j-electro	j-electro
+11763	jap rap	jap rap
+11767	blaarty hardcore	blaarty hardcore
+11770	internally drilling techno	internally drilling techno
+11784	music for car	driving songs
+11786	power groove	groove
+11788	evil disco	disco
+11792	songs to download later	songs to download later
+11807	1337 guitar players	1337 guitar players
+11809	luff this song	luff this song
+11813	gay church folk music	gay music
+11815	songs to try and figure what amp theyre using cause its cool sounding	songs to try and figure what amp theyre using cause its cool sounding
+11820	the melancholy of suzumiya haruhi	the melancholy of suzumiya haruhi
+11824	ryuichi sakamoto works	ryuichi sakamoto works
+11831	female drummer	female drummer
+11832	j-house	j-house
+11835	beatniks	beatniks
+11847	emotional song	emotional pop
+11849	trucker metal	trucker metal
+11861	dead music	fatal song
+11862	super sexy sweet bornt honey skin j-pop star on the extra-high heels	super sexy sweet bornt honey skin j-pop star on the extra-high heels
+11863	trip rock	rock
+11864	industrial blues	industrial blues
+11869	vozes do morro	vozes do morro
+11880	venus rock	venus rock
+11881	baby making music	babymaking music
+11882	forro pe de serra	forro pe de serra
+11885	future hip-hop	rap
+11897	forlorn road songs	forlorn road songs
+11899	seth cohen would listen to this	seth cohen would listen to this
+11903	angry chick music	chick rock
+11904	getcrunk	getcrunk
+11905	new york rap	new york rap
+11907	country southernrock ugamusic	country southernrock ugamusic
+11908	rnb breakupmusic	breakup music
+11909	souther rock	souther rock
+11911	uga music	uga music
+11915	dance dance dance	dance
+11921	moms vinyl collection	moms vinyl collection
+11924	romantico	romantica
+11930	stadium music	stadium music
+11932	making the band 4	making the band 4
+11937	synth-punk	synth
+11949	sugababes	sugababes
+11953	synth attack	synth
+11954	sexy guitar hey	hot guitar
+11958	ozzy osbourne ozzy metal heavy metal zakk wylde zakk	ozzy osbourne ozzy metal heavy metal zakk wylde zakk
+11965	smoking music	smoking music
+11969	modern day boom bap	modern day boom bap
+11975	trap musik	trap musik
+11977	grimey	grime
+11979	epitome of hip hop	rap
+11981	dj khalil	dj khalil
+11996	black shepherd thrash	black shepherd thrash
+11998	metal church	metal church
+12001	cacophony	cacophony
+12003	kvlt hipster metulz	kvlt hipster metulz
+12012	electro-folk	electro-folk
+12013	electronic hardcore	hardcore
+12016	metro downtempo	downtempo
+12018	disco bullshit	disco bullshit
+12028	tianguiscore	tianguiscore
+12033	albums i bought	albums
+12034	mexican folk	mexican folk
+12035	este disco me hace sentir un orgasmo	este disco me hace sentir un orgasmo
+12045	club transmediale	club transmediale
+12048	electrofunk	electropunk
+12050	the west coast sound of holland	the west coast sound of holland
+12056	80s rock	rock 80s
+12064	thrasher	thrash
+12068	nepali rock band	nepali rock band
+12071	nepali instrumental serene ambient	nepali instrumental serene ambient
+12072	nepali guitar instumental serene fusion	nepali instrumental serene ambient
+12077	songs that sexually excite me	songs to have sex to
+12089	power dance pop	dancepop
+12098	melodious	melodious
+12102	street music	street music
+12105	hip hop and rap	rap
+12107	gansta rap	gansta rap
+12108	real rap	real rap
+12113	deutsch rap	deutsch rap
+12114	deutsche hip-hop	german rap
+12118	hip-hop alternative talib kweli stones throw records madlib east coast	hip-hop alternative talib kweli stones throw records madlib east coast
+12129	i can play the drums	i can play the drums
+12137	shit music is shit	shit music is shit
+12139	hard bass	bass
+12140	analrape	anal pop
+12153	gay metal	gay metal
+12154	accordion	accordion
+12156	suicidal black metal with a touch of porngrind and synthesizers	suicidal black metal
+12158	recife	recife
+12161	andreea banica	andreea banica
+12163	mulatos-muzsika	mulatos-muzsika
+12166	modern elektronikus tanczene	modern elektronikus tanczene
+12171	sleep music	sleep music
+12173	music to kill yourself to	suicide songs
+12176	electroacoustic	electroacoustic
+12178	rune grammofon	rune grammofon
+12181	tunes	tunes
+12188	intelligent dance music	dance mix
+12201	pianist ep	pianist ep
+12204	samba rock	samba
+12205	singersongwriter female pop	girl singer
+12206	instrumental piano	instrumental
+12208	new wave and eighties	new wave
+12211	deadened black metal	deadened black metal
+12212	jamtronica	jamtronica
+12216	devy metal	devy metal
+12220	light trip-hop	tri hop
+12227	hooverphonic	hooverphonic
+12231	peace orchestra	orchestra
+12232	6-string bass	6-string bass
+12242	cool songs	cool music
+12268	girl name songs	girl name songs
+12270	songs about girls	girl name songs
+12273	death song	fatal song
+12275	hymns	hymn
+12300	popstars: the rivals	popstars
+12302	the last song	the album
+12305	matinee group	matinee group
+12314	s club 7	s club 7
+12319	idol 2006	idol
+12320	idol 2005	idol
+12326	serie	serie
+12332	mezclas	mezclas
+12335	highlife	highlife
+12342	europe band	europe band
+12343	epic pop	epic pop
+12344	christian-rock	rock gospel
+12351	radio x	radio
+12357	this kraft works	this kraft works
+12360	enstrumantal	enstrumantal
+12361	melancolia	melodia
+12364	female rapper	female rap
+12365	dark house	deep house
+12366	minimalist rock	minimalist rock
+12367	disco filter	disco filter
+12368	electronic folk	electro-folk
+12409	keyboard rock	piano rock
+12414	alternative folk	folk
+12420	blues pop	blues
+12422	coachella	coachella
+12427	avant-folk	avant pop
+12431	ultra heavy beat	ultra heavy beat
+12436	psy ambient	psy ambient
+12437	ambient-breakbeat	breakbeat
+12438	mixmaster morris	mixmaster morris
+12446	dj kicks	dj kicks
+12447	husband and wife duets	husband and wife duets
+12449	franz schubert	franz schubert
+12458	teatro petrella	teatro petrella
+12466	progressive synth pop	synth
+12480	mnogo dobro	mnogo dobro
+12482	syndrom ciarek	syndrom ciarek
+12487	country taggradio	country taggradio
+12496	great composers	composer
+12520	synthie pop	synth
+12528	crossover thrash metal	thrash metal
+12529	nigger music	nigga music
+12530	macumba music	macumba music
+12549	mexican pop	latin pop
+12553	international pop	uk pop
+12563	gothic industrial	industrial goth
+12564	original hard rock	hard rock
+12566	blues metal	blues
+12567	italian music	italian music
+12568	festival italian music	italian music
+12569	japan musica	japan musica
+12570	jazz trompete argentina	jazz trompete argentina
+12613	arctic monkeys acoustic	arctic monkeys acoustic
+12626	avantgrade	avant pop
+12628	second wave goth	second wave goth
+12629	brucecore	brucecore
+12630	punk cabaret	cabaret
+12631	fitness rock	fitness rock
+12633	russian dark scene	russian dark scene
+12634	angry metal	gay metal
+12635	hanoi rocks	hanoi rocks
+12637	christian & gospel	gospel
+12648	electro latino	electro latino
