@@ -102,6 +102,13 @@ INVALID_GENRES = {
     "bass",
     "drum",
     "rhythm",
+    "sax",
+    "pop 90",
+    "rock 80s",
+    "melodic",
+    "jam",
+    "timbaland",
+    "rpg music",
     
     # 廣泛
     "symphonic",
@@ -189,6 +196,10 @@ GENRE_MAPPING = {
     "deutschrock": "rock",
     "chick rock": "rock",
     "glam rock": "rock",
+    "rock brasil": "rock",
+    "finnish rock": "rock",
+    "rock argento": "rock",
+    "rock brasil": "rock",
     
     # 可獨立
     #"new wave": "rock",
@@ -212,6 +223,9 @@ GENRE_MAPPING = {
     "french pop": "pop",
     "latin pop": "pop",
     
+    # k-pop
+    "kpop": "k-pop",
+    
     # 可獨立
     #"britpop": "pop/rock",
     #"j-pop": "pop",
@@ -226,6 +240,7 @@ GENRE_MAPPING = {
     # pop rock
     "powerpop": "pop rock",
     "power pop": "pop rock",
+    "poprock": "pop rock",
 
     # electronic
     "trance": "electronic",
@@ -274,8 +289,20 @@ GENRE_MAPPING = {
     "goth": "gothic",
     
     # brazilian music
-    #"samba": "brazilian music",
-    #"bossa nova": "brazilian music",
+    "samba": "brazilian music",
+    "bossa nova": "brazilian music",
+    
+    # classical
+    "baroque": "classical",
+    "opera": "classical",
+    "orchestra": "classical",
+    
+    # latin
+    "salsa": "latin",
+    
+    # country
+    "alt country": "country",
+    "modern country": "country",
 }
 
 def load_font(path: Path, size: int):
@@ -371,7 +398,7 @@ def build_genre_popularity_index(
     )
     
     genre_index = genre_index[
-        genre_index["unique_users"] >= 5
+        genre_index["unique_users"] >= 20
     ]
     
     print(
@@ -484,11 +511,7 @@ def draw_popularity_chart(
             "genre_popularity_score",
             ascending=False,
         )
-        .head(20)
-        .sort_values(
-            "genre_popularity_score",
-            ascending=True,
-        )
+        .head(10)
         .reset_index(drop=True)
     )
 
@@ -500,13 +523,13 @@ def draw_popularity_chart(
 
         return
 
-    df = df.sort_values(
-        "genre_popularity_score",
-        ascending=True,
-    ).reset_index(drop=True)
+    #df = df.sort_values(
+    #    "genre_popularity_score",
+    #    ascending=True,
+    #).reset_index(drop=True)
 
     width = 1600
-    height = 1100
+    height = 700
 
     margin_left = 320
     margin_right = 120
@@ -550,7 +573,7 @@ def draw_popularity_chart(
 
     draw.text(
         (margin_left, 40),
-        "Top 20 Genre Popularity Ranking",
+        "Top 10 Genre Popularity Ranking",
         fill="#102A43",
         font=font_title,
     )
@@ -587,14 +610,21 @@ def draw_popularity_chart(
             * plot_width
         )
 
-        color = "#2F80ED"
+        segment = row[
+            "genre_popularity_segment"
+        ]
+
+        color = colors.get(
+            segment,
+            "#7B8794"
+        )
 
         draw.text(
             (
                 20,
                 y,
             ),
-            row["canonical_genre"],
+            f"#{idx+1} {row['canonical_genre']}",
             fill="#102A43",
             font=font_label,
         )
@@ -863,7 +893,22 @@ def main() -> None:
     print(
         "Note: Last.fm dataset does not contain age information."
     )
+    
+    pd.set_option(
+        "display.max_rows",
+        None
+    )
 
+    print(
+        genre_index[
+            [
+                "canonical_genre",
+                "unique_users"
+            ]
+        ].sort_values(
+            "unique_users"
+        )
+    )
 
 if __name__ == "__main__":
     main()
